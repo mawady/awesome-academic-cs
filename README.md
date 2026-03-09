@@ -47,6 +47,7 @@ Curated awesome list of academic tools for teaching and research
 * JabRef: [[Website](https://www.jabref.org)] | [[Github](https://github.com/JabRef/jabref)]
 * EndNote: [[Website](https://endnote.com/)]
 * Mendeley: [[Website](https://www.mendeley.com/)]
+* CiteMe: [[Website](https://citeme.app)] | [[Github](https://github.com/danielnichiata96/citeme)]
 
 ---
 
