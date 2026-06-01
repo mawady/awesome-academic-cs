@@ -366,3 +366,25 @@
 - [Pexels](https://www.pexels.com/) — Fully accessible library of royalty-free stock imagery and media clips under permissive licenses. `Free`
 - [The Noun Project](https://thenounproject.com/) — Exceptional collection of minimalist vector icons; an invaluable asset for creating system architecture diagrams. `Freemium`
 - [Flaticon](https://www.flaticon.com/) — Huge global resource providing grouped sets of multicolored, theme-consistent vector iconography across formats. `Freemium`
+
+---
+
+## Related
+ 
+- [awesome-computer-vision-resources](https://github.com/mawady/awesome-cv) — Structured learning reference for computer vision: from image fundamentals to research frontiers.
+- [awesome-computer-vision-tools](https://github.com/mawady/awesome-computer-vision-tools) — Curated tools for the full CV pipeline: training, data augmentation, experiment tracking, inference, edge deployment, and MLOps.
+- [cv-recipes](https://github.com/mawady/cv-recipes) — Practical computer vision recipes for educational and research use (Python / Colab notebooks).
+
+---
+
+## Contributing
+
+Contributions are very welcome! Please read the [contribution guidelines](CONTRIBUTING.md) before opening a PR.
+
+---
+
+## License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Mohamed Elawady](https://github.com/mawady) has waived all copyright and related rights to this work.
