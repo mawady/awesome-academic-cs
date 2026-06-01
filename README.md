@@ -8,6 +8,8 @@ Curated awesome list of academic resources for teaching and research in computer
 
 ## Contents
 >
+> * **[Books](#books)**
+> * **[Compilers](#compilers)**
 > * **[Online Survey](#online-survey)**
 > * **[Interactive Whiteboard](#interactive-whiteboard)**
 > * **[Reference Management](#reference-management)**
@@ -17,12 +19,33 @@ Curated awesome list of academic resources for teaching and research in computer
 > * **[Search Engine](#search-engine)**
 > * **[Data Sharing Platform](#data-sharing-platform)**
 > * **[Research Networking Platform](#research-networking-platform)**
-> * **[AI Assistant](#ai-assistant)**
 > * **[Sourcecode Finder](#sourcecode-finder)**
 > * **[LaTeX Writing](#latex-writing)**
 > * **[Grammar Checker](#grammar-checker)**
 > * **[Plagiarism Checker](#plagiarism-checker)**
 >
+
+---
+
+## Books
+
+* Algorithms
+  * Sedgewick, Robert, and Kevin Wayne. "Algorithms". [[goodreads](https://www.goodreads.com/book/show/10803540-algorithms)]
+  * Cormen, Thomas H., Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein. "Introduction to algorithms". [[goodreads](https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms)]
+  * Skiena, Steven S., and Miguel A. Revilla. "Programming challenges: The programming contest training manual".  [[goodreads](https://www.goodreads.com/book/show/1041695.Programming_Challenges)]
+  * Skiena, Steven S. "The Algorithm Design Manual (Texts in Computer Science)". [[goodreads](https://www.goodreads.com/book/show/55357750-the-algorithm-design-manual)]
+* Databases
+  * Elmasri, Ramez, and Shamkant B. Navathe. "Fundamentals of Database Systems." [[goodreads](https://www.goodreads.com/book/show/161300.Fundamentals_of_Database_Systems)]
+  * Connolly, Thomas M., and Carolyn E. Begg. "Database systems: a practical approach to design, implementation, and management". [[goodreads](https://www.goodreads.com/book/show/617120.Database_Systems)]
+---
+
+## Compilers
+
+* Java
+  * [Oracle JDK](https://www.oracle.com/java/technologies/) - `Commerical`
+  * [Adoptium OpenJDK, supported by Microsoft](https://adoptium.net/) [[GitHub](https://github.com/adoptium/jdk)] - `Open Source`
+  * [Azul Zulu OpenJDK](https://www.azul.com/downloads/?package=jdk#zulu) [[Docker](https://github.com/zulu-openjdk/zulu-openjdk)] - `Free`
+  * [MS OpenJDK](https://www.microsoft.com/openjdk) [[GitHub](https://github.com/microsoft/openjdk)]  - `Open Source`
 
 ---
 
@@ -85,12 +108,18 @@ Curated awesome list of academic resources for teaching and research in computer
 
 ---
 
+## Preprint Article Repositories
+
+* [arXiv](https://arxiv.org/)
+* [ScienceOpen](https://www.scienceopen.com/)
+
+---
+
 ## Data Sharing Platform
 
 * [Zenodo](https://zenodo.org/)
 * [OSF](https://osf.io/)
 * [FigShare](https://figshare.com/)
-* [ScienceOpen](https://www.scienceopen.com/)
 
 ---
 
@@ -101,18 +130,9 @@ Curated awesome list of academic resources for teaching and research in computer
 
 ---
 
-## AI Assistant
-
-* [Elicit](https://elicit.com/)
-* [ChatPDF](https://www.chatpdf.com/)
-* [Explainpaper](https://www.explainpaper.com/)
-
----
-
 ## Sourcecode Finder
 
 * [GitHub](https://github.com/)
-* [PaperWithCode](https://paperswithcode.com/)
 
 ---
 
