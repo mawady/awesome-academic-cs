@@ -53,30 +53,15 @@
 
 - **Pattern Recognition and Machine Learning** — Bishop, Christopher M. A rigorous, mathematically solid Bayesian treatment of pattern recognition. [[Springer](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)]
 - **Deep Learning** — Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. The definitive, mathematical textbook covering the mathematical pillars of modern deep learning. [[Website](https://www.deeplearningbook.org/)]
-- **The Hundred-Page Machine Learning Book** — Burkov, Andriy. A highly concise, practical, and compact overview of modern machine learning techniques. [[Website](https://themlbook.com/)]
-
-### Computer Architecture
-
-- **Computer Organization and Design** — Patterson, David A., and John L. Hennessy. The foundational text exploring the vital hardware/software interface layers. [[Goodreads](https://www.goodreads.com/book/show/11008771-computer-organization-and-design)]
 
 ### Operating Systems
 
 - **Modern Operating Systems** — Tanenbaum, Andrew S. Comprehensive coverage of operating system principles, paradigms, and actual code design. [[Goodreads](https://www.goodreads.com/book/show/166195.Modern_Operating_Systems)]
-- **Operating Systems: Three Easy Pieces** — Arpaci-Dusseau, Remzi, and Andrea Arpaci-Dusseau. A phenomenal, free online textbook breaking OS concepts down into Virtualization, Concurrency, and Persistence. [[Website](https://pages.cs.wisc.edu/~remzi/OSTEP/)]
-
-### Computer Networks
-
-- **Computer Networking: A Top-Down Approach** — Kurose, James, and Keith Ross. Industry-standard networking textbook breaking down communication from the application layer down to the physical. [[Goodreads](https://www.goodreads.com/book/show/83847.Computer_Networking)]
-
-### Compilers
-
-- **Compilers: Principles, Techniques, and Tools (Dragon Book)** — Aho, Alfred V., et al. The definitive, fundamental reference on compiler construction and syntax analysis. [[Goodreads](https://www.goodreads.com/book/show/703102.Compilers)]
 
 ### Programming & Software Engineering
 
 - **The Pragmatic Programmer** — Hunt, Andrew, and David Thomas. Timeless, foundational advice on software craftsmanship and professional discipline. [[Goodreads](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)]
 - **Clean Code** — Martin, Robert C. Best practices for writing highly readable, sustainable, and easily maintainable software. [[Goodreads](https://www.goodreads.com/book/show/3735293-clean-code)]
-- **Structure and Interpretation of Computer Programs (SICP)** — Abelson, Harold, and Gerald Jay Sussman. The iconic MIT textbook exploring the deep conceptual foundations of programming languages. [[Website](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html)]
 
 ---
 
