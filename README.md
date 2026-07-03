@@ -395,6 +395,7 @@
 - [ProtoPie](https://www.protopie.io/): Advanced prototyping tool for creating realistic web and mobile interactions using gestures, sensors, variables, and logic. `Commercial`
 - [Pencil Project](https://pencil.evolus.vn/): Open-source desktop application for creating wireframes and GUI mockups with an extensive library of interface components. [[GitHub](https://github.com/evolus/pencil)] `Open Source`
 - [Excalidraw](https://excalidraw.com/): Open-source collaborative whiteboard ideal for sketching low-fidelity wireframes, user flows, and interface concepts. [[GitHub](https://github.com/excalidraw/excalidraw)] `Open Source`
+- [Draw.io (diagrams.net)](https://app.diagrams.net/): Free, web-based diagramming tool for wireframes, flowcharts, system design diagrams, and UI structure planning with strong integration support (Google Drive, OneDrive, GitHub). `Free`
 
 ---
 
