@@ -32,6 +32,7 @@
 - [Grammar & Writing Assistants](#grammar--writing-assistants)
 - [Plagiarism & AI Detection](#plagiarism--ai-detection)
 - [Free Stock Images & Icons](#free-stock-images--icons)
+- [Conferences & Journals of Learning & Teaching in Computing](#conferences--journals-of-learning--teaching-in-computing)
 
 ---
 
@@ -109,8 +110,8 @@
 - [Codecademy](https://www.codecademy.com/) — Hugely popular introductory platform featuring highly interactive, browser-based playgrounds to practice raw syntax and OOP fundamentals. `Freemium / Commercial`
 - [DataCamp](https://www.datacamp.com/) — Highly recognizable, browser-led platform focusing entirely on practical data visualization, database querying, and machine learning pipelines. `Freemium / Commercial`
 - [Brilliant](https://brilliant.org/) — Heavily adopted visual-first learning application that uses bite-sized interactive modules to explain complex math, physics, and neural networks. `Freemium / Commercial`
-- [DeepLearning.AI](https://www.deeplearning.ai/) — Andrew Ng’s highly authoritative training engine delivering industry-standard specializations in Deep Learning, GenAI, and MLOps. `Freemium / Commercial`
-- [Stanford Online](https://online.stanford.edu/) — Elite university portal giving the public direct access to Stanford’s advanced engineering lectures, professional certs, and advanced degree options. `Freemium / Commercial`
+- [DeepLearning.AI](https://www.deeplearning.ai/) — Andrew Ng's highly authoritative training engine delivering industry-standard specializations in Deep Learning, GenAI, and MLOps. `Freemium / Commercial`
+- [Stanford Online](https://online.stanford.edu/) — Elite university portal giving the public direct access to Stanford's advanced engineering lectures, professional certs, and advanced degree options. `Freemium / Commercial`
 - [Codewars](https://www.codewars.com/) — A well-established, gamified coding environment where developers sharpen programmatic skills by solving peer-graded community challenges (kata). `Freemium / Commercial`
 - [NeetCode](https://neetcode.io/) — Explosive growth among technical job seekers for its highly structured, video-guided approach to mastering data structures, algorithms, and system design patterns. `Freemium / Commercial`
 - [AlgoExpert](https://www.algoexpert.io/) — A premium, highly marketed video interview prep platform meticulously detailing how to break down complex architectural and algorithmic problems. `Freemium / Commercial`
@@ -222,7 +223,7 @@
 - [arXiv](https://arxiv.org/) — The premier open-access archive hosted by Cornell University for preprints across Computer Science, Physics, and Mathematics. `Free`
 - [bioRxiv](https://www.biorxiv.org/) / [medRxiv](https://www.medrxiv.org/) — Crucial preprint channels for computational biology, bioinformatics, and health informatics. `Free`
 - [SSRN](https://www.ssrn.com/) — Multidisciplinary platform owned by Elsevier, popular for early-stage digital economy and algorithmic law research. `Free`
-- [TechRxiv](https://www.techrxiv.org/) — IEEE’s official open preprint server spanning electrical engineering, systems architecture, and computer science. `Free`
+- [TechRxiv](https://www.techrxiv.org/) — IEEE's official open preprint server spanning electrical engineering, systems architecture, and computer science. `Free`
 
 ---
 
@@ -354,6 +355,34 @@
 
 ---
 
+## Conferences & Journals of Learning & Teaching in Computing
+
+### Conferences
+
+- [International Computing Education Research Workshop (ICER)](https://dblp.org/streams/conf/icer) — ACM. `CORE A`
+- [Computer Science Education (SIGCSE)](https://dblp.org/streams/conf/sigcse) — ACM. `CORE A`
+- [International Conference on Artificial Intelligence in Education (AIED)](https://dblp.org/streams/conf/aied) — Springer. `CORE A`
+- [Innovation and Technology in Computer Science Education (ITiCSE)](https://dblp.org/streams/conf/iticse) — ACM. `CORE B`
+- [International Conference on Computer Supported Education (CSEDU)](https://dblp.org/streams/conf/csedu) — SciTePress. `CORE B`
+- [International Conference on Advanced Learning Technologies (ICALT)](https://dblp.org/streams/conf/icalt) — IEEE. `CORE B`
+- [European Conference on Technology Enhanced Learning (EC-TEL)](https://dblp.org/streams/conf/ectel) — Springer. `CORE B`
+- [Frontiers in Education Conference (FIE)](https://dblp.org/streams/conf/fie) — IEEE. `CORE C`
+- [Koli Calling International Conference on Computing Education Research (Koli Calling)](https://dblp.org/streams/conf/kolicalling) — ACM. `Unranked`
+- [Computing Education Practice (CEP)](https://dblp.org/streams/conf/cep) — ACM. `Unranked`
+- [UK & Ireland Computing Education (UKICER)](https://dblp.org/streams/conf/ukicer) — ACM. `Unranked`
+
+### Journals
+
+- [Computers and Education](https://www.sciencedirect.com/journal/computers-and-education) — Elsevier. `SJR Q1` `Open Access`
+- [International Journal of Educational Technology in Higher Education](https://educationaltechnologyjournal.springeropen.com) — Springer. `SJR Q1` `Open Access`
+- [International Journal of STEM Education](https://stemeducationjournal.springeropen.com) — Springer. `SJR Q1` `Open Access`
+- [Educational Technology Research and Development](https://link.springer.com/journal/11423) — Springer. `SJR Q1` `Open Access`
+- [Journal of Science Education and Technology](https://link.springer.com/journal/10956) — Springer. `SJR Q1` `Open Access`
+- [IEEE Transactions on Learning Technologies](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4620076) — IEEE. `SJR Q1` `Open Access`
+- [Journal of Computing in Higher Education](https://link.springer.com/journal/12528) — Springer. `SJR Q1` `Open Access`
+
+---
+
 ## Related
  
 - [awesome-computer-vision-resources](https://github.com/mawady/awesome-cv) — Structured learning reference for computer vision: from image fundamentals to research frontiers.
@@ -364,7 +393,6 @@
 
 ## ToDo
 
-- Conferences & Journals of Learning & Teaching in Computing
 - Wireframes & Mockups & Prototypes
 
 ---
