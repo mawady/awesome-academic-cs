@@ -33,6 +33,7 @@
 - [Plagiarism & AI Detection](#plagiarism--ai-detection)
 - [Free Stock Images & Icons](#free-stock-images--icons)
 - [Conferences & Journals of Learning & Teaching in Computing](#conferences--journals-of-learning--teaching-in-computing)
+- [Wireframing, Mockups & Prototyping Tools](#wireframing-mockups--prototyping-tools)
 
 ---
 
@@ -380,6 +381,20 @@
 - [Journal of Science Education and Technology](https://link.springer.com/journal/10956): Springer. [[SJR](https://www.scimagojr.com/journalsearch.php?q=23646&tip=sid)] `SJR Q1` `Open Access`
 - [IEEE Transactions on Learning Technologies](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4620076): IEEE. [[SJR](https://www.scimagojr.com/journalsearch.php?q=19700167026&tip=sid)] `SJR Q1` `Open Access`
 - [Journal of Computing in Higher Education](https://link.springer.com/journal/12528): Springer. [[SJR](https://www.scimagojr.com/journalsearch.php?q=17600155502&tip=sid)] `SJR Q1` `Open Access`
+
+---
+
+## Wireframing, Mockups & Prototyping Tools
+
+- [Figma](https://www.figma.com/): Industry-standard collaborative UI/UX design platform supporting wireframing, high-fidelity mockups, interactive prototypes, design systems, and developer handoff. `Freemium`
+- [Google Stitch](https://stitch.withgoogle.com/): Google’s AI-powered UI design tool that generates editable wireframes and interface mockups from natural language prompts or reference images, with export to Figma and frontend code. `Free`
+- [Penpot](https://penpot.app/): Open-source collaborative design platform for creating wireframes, UI mockups, interactive prototypes, and reusable design systems. [[GitHub](https://github.com/penpot/penpot)] `Open Source`
+- [Balsamiq](https://balsamiq.com/): Lightweight low-fidelity wireframing tool that emphasizes rapid interface ideation using hand-drawn style components. `Commercial`
+- [Framer](https://www.framer.com/): Modern design and prototyping platform for building responsive interfaces, rich animations, and interactive web experiences. `Freemium`
+- [Axure RP](https://www.axure.com/): Enterprise-grade UX platform for developing complex interactive prototypes with variables, conditional logic, and detailed specifications. `Commercial`
+- [ProtoPie](https://www.protopie.io/): Advanced prototyping tool for creating realistic web and mobile interactions using gestures, sensors, variables, and logic. `Commercial`
+- [Pencil Project](https://pencil.evolus.vn/): Open-source desktop application for creating wireframes and GUI mockups with an extensive library of interface components. [[GitHub](https://github.com/evolus/pencil)] `Open Source`
+- [Excalidraw](https://excalidraw.com/): Open-source collaborative whiteboard ideal for sketching low-fidelity wireframes, user flows, and interface concepts. [[GitHub](https://github.com/excalidraw/excalidraw)] `Open Source`
 
 ---
 
