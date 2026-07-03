@@ -40,43 +40,43 @@
 
 ### Algorithms & Data Structures
 
-- **Algorithms** — Sedgewick, Robert, and Kevin Wayne. A comprehensive, code-driven introduction to algorithms and data structures. [[Goodreads](https://www.goodreads.com/book/show/10803540-algorithms)]
-- **Introduction to Algorithms (CLRS)** — Cormen, Thomas H., et al. The classic, rigorous algorithms textbook used in universities worldwide. [[Goodreads](https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms)]
-- **Programming Challenges** — Skiena, Steven S., and Miguel A. Revilla. A programming contest training manual filled with distinct problem sets and solutions. [[Goodreads](https://www.goodreads.com/book/show/1041695.Programming_Challenges)]
-- **The Algorithm Design Manual** — Skiena, Steven S. Practical algorithm design with an invaluable "war story" catalog for real-world application. [[Goodreads](https://www.goodreads.com/book/show/55357750-the-algorithm-design-manual)]
+- **Algorithms**: Sedgewick, Robert, and Kevin Wayne. A comprehensive, code-driven introduction to algorithms and data structures. [[Goodreads](https://www.goodreads.com/book/show/10803540-algorithms)]
+- **Introduction to Algorithms (CLRS)**: Cormen, Thomas H., et al. The classic, rigorous algorithms textbook used in universities worldwide. [[Goodreads](https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms)]
+- **Programming Challenges**: Skiena, Steven S., and Miguel A. Revilla. A programming contest training manual filled with distinct problem sets and solutions. [[Goodreads](https://www.goodreads.com/book/show/1041695.Programming_Challenges)]
+- **The Algorithm Design Manual**: Skiena, Steven S. Practical algorithm design with an invaluable "war story" catalog for real-world application. [[Goodreads](https://www.goodreads.com/book/show/55357750-the-algorithm-design-manual)]
 
 ### Databases
 
-- **Fundamentals of Database Systems** — Elmasri, Ramez, and Shamkant B. Navathe. Thorough and authoritative coverage of database concepts, design, and modeling paradigms. [[Goodreads](https://www.goodreads.com/book/show/161300.Fundamentals_of_Database_Systems)]
-- **Database Systems: A Practical Approach** — Connolly, Thomas M., and Carolyn E. Begg. Step-by-step approach to the design, implementation, and management of business-critical database systems. [[Goodreads](https://www.goodreads.com/book/show/617120.Database_Systems)]
+- **Fundamentals of Database Systems**: Elmasri, Ramez, and Shamkant B. Navathe. Thorough and authoritative coverage of database concepts, design, and modeling paradigms. [[Goodreads](https://www.goodreads.com/book/show/161300.Fundamentals_of_Database_Systems)]
+- **Database Systems: A Practical Approach**: Connolly, Thomas M., and Carolyn E. Begg. Step-by-step approach to the design, implementation, and management of business-critical database systems. [[Goodreads](https://www.goodreads.com/book/show/617120.Database_Systems)]
 
 ### Machine Learning & AI
 
-- **Pattern Recognition and Machine Learning** — Bishop, Christopher M. A rigorous, mathematically solid Bayesian treatment of pattern recognition. [[Springer](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)]
-- **Deep Learning** — Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. The definitive, mathematical textbook covering the mathematical pillars of modern deep learning. [[Website](https://www.deeplearningbook.org/)]
+- **Pattern Recognition and Machine Learning**: Bishop, Christopher M. A rigorous, mathematically solid Bayesian treatment of pattern recognition. [[Springer](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)]
+- **Deep Learning**: Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. The definitive, mathematical textbook covering the mathematical pillars of modern deep learning. [[Website](https://www.deeplearningbook.org/)]
 
 ### Operating Systems
 
-- **Modern Operating Systems** — Tanenbaum, Andrew S. Comprehensive coverage of operating system principles, paradigms, and actual code design. [[Goodreads](https://www.goodreads.com/book/show/166195.Modern_Operating_Systems)]
+- **Modern Operating Systems**: Tanenbaum, Andrew S. Comprehensive coverage of operating system principles, paradigms, and actual code design. [[Goodreads](https://www.goodreads.com/book/show/166195.Modern_Operating_Systems)]
 
 ### Programming & Software Engineering
 
-- **The Pragmatic Programmer** — Hunt, Andrew, and David Thomas. Timeless, foundational advice on software craftsmanship and professional discipline. [[Goodreads](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)]
-- **Clean Code** — Martin, Robert C. Best practices for writing highly readable, sustainable, and easily maintainable software. [[Goodreads](https://www.goodreads.com/book/show/3735293-clean-code)]
+- **The Pragmatic Programmer**: Hunt, Andrew, and David Thomas. Timeless, foundational advice on software craftsmanship and professional discipline. [[Goodreads](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)]
+- **Clean Code**: Martin, Robert C. Best practices for writing highly readable, sustainable, and easily maintainable software. [[Goodreads](https://www.goodreads.com/book/show/3735293-clean-code)]
 
 ---
 
 ## AI Tools for Research
 
-- [Elicit](https://elicit.com/) — AI research assistant that extracts data, synthesizes themes, and analyzes across thousands of papers instantly. `Freemium`
-- [Consensus](https://consensus.app/) — An AI search engine that reads peer-reviewed research papers to give you evidence-based answers. `Freemium`
-- [NotebookLM](https://notebooklm.google/) — Google's localized AI note-taking assistant that utilizes personalized document uploads to generate structured summaries, cross-citations, and audio deep-dives. `Free`
-- [Perplexity AI](https://www.perplexity.ai/) — An AI-powered conversational engine that serves as an excellent starting point for quick lit-review overviews with direct inline citations. `Freemium`
-- [ResearchRabbit](https://www.researchrabbit.ai/) — Visually maps and organizes citation networks to assist in automatically uncovering overlooked, related research papers. `Free`
-- [SciSpace (Typeset)](https://typeset.io/) — Comprehensive AI copilot designed for parsing complex formulas, explaining text, and accelerating academic writing. `Freemium`
-- [Connected Papers](https://www.connectedpapers.com/) — Visual tool that converts a single entry paper into a comprehensive graphical topology of co-citations and bibliography ties. `Freemium`
-- [Litmaps](https://www.litmaps.com/) — Interactive pipeline utilizing automated citation maps to continuously track and alert you to new literature in your niche. `Freemium`
-- [Semantic Scholar](https://www.semanticscholar.org/) — AI-driven search interface offering structural insights, impact metrics, and auto-generated summaries for millions of papers. `Free`
+- [Elicit](https://elicit.com/): AI research assistant that extracts data, synthesizes themes, and analyzes across thousands of papers instantly. `Freemium`
+- [Consensus](https://consensus.app/): An AI search engine that reads peer-reviewed research papers to give you evidence-based answers. `Freemium`
+- [NotebookLM](https://notebooklm.google/): Google's localized AI note-taking assistant that utilizes personalized document uploads to generate structured summaries, cross-citations, and audio deep-dives. `Free`
+- [Perplexity AI](https://www.perplexity.ai/): An AI-powered conversational engine that serves as an excellent starting point for quick lit-review overviews with direct inline citations. `Freemium`
+- [ResearchRabbit](https://www.researchrabbit.ai/): Visually maps and organizes citation networks to assist in automatically uncovering overlooked, related research papers. `Free`
+- [SciSpace (Typeset)](https://typeset.io/): Comprehensive AI copilot designed for parsing complex formulas, explaining text, and accelerating academic writing. `Freemium`
+- [Connected Papers](https://www.connectedpapers.com/): Visual tool that converts a single entry paper into a comprehensive graphical topology of co-citations and bibliography ties. `Freemium`
+- [Litmaps](https://www.litmaps.com/): Interactive pipeline utilizing automated citation maps to continuously track and alert you to new literature in your niche. `Freemium`
+- [Semantic Scholar](https://www.semanticscholar.org/): AI-driven search interface offering structural insights, impact metrics, and auto-generated summaries for millions of papers. `Free`
 
 ---
 
@@ -85,49 +85,49 @@
 
 ### Free
 
-- [Khan Academy](https://www.khanacademy.org/computing) — Millions of global users utilize this platform for foundational math, computer science logic, and intro-level algorithms. `Free`
-- [freeCodeCamp](https://www.freecodecamp.org/) — Massive global community with a highly popular, project-based curriculum spanning web development, data structures, and core programming concepts. `Free`
-- [Microsoft Learn](https://learn.microsoft.com/) — High-traffic corporate learning ecosystem offering detailed, structured pathways for cloud engineering, developer tools, and enterprise AI. `Free`
-- [MIT OpenCourseWare](https://ocw.mit.edu/) — The gold standard for free academic content, providing self-paced access to actual syllabi, problem sets, and video lectures straight from MIT's Computer Science tracks. `Free`
-- [CS50 (Harvard)](https://cs50.harvard.edu/) — Arguably the world's most famous and highly enrolled introductory framework covering computer science principles and robust programmatic thinking. `Free`
-- [Kaggle](https://www.kaggle.com/) — The premier data science hub globally, hosting free micro-courses, active public datasets, notebooks, and major machine learning competitions. `Free`
-- [Roadmap.sh](https://roadmap.sh/) — An incredibly popular, community-driven visual roadmap platform used by hundreds of thousands of developers to navigate modern career tracks like Backend, DevOps, and AI. `Free`
-- [Hugging Face Learn](https://huggingface.co/learn) — The absolute epicenter of modern AI and open-source NLP education, teaching developers how to implement real Transformer models and deep reinforcement learning. `Free`
-- [The Odin Project](https://www.theodinproject.com/) — Highly popular, deep, open-source full-stack web development curriculum with a vast community backing self-taught software engineers. `Free`
-- [fast.ai](https://www.fast.ai/) — Acclaimed top-down approach to deep learning that gets students building complex neural networks quickly before breaking down the underlying math. `Free`
-- [OSS University](https://github.com/ossu/computer-science) — A viral, community-curated GitHub roadmap designed to mimic a full 4-year undergraduate computer science degree using entirely free resources. `Free`
-- [Exercism](https://exercism.org/) — Well-adopted open-source practice platform featuring human code mentorship across more than 60 programming languages. `Free`
-- [Cognitive Class](https://cognitiveclass.ai/) — IBM's dedicated virtual lab environment focused natively on building big data, cloud architecture, and AI infrastructure skills. `Free`
-- [Full Stack Open](https://fullstackopen.com/en/) — The University of Helsinki's highly regarded modern web engineering program focusing on advanced JavaScript, React, Node.js, and CI/CD pipelines. `Free`
-- [Elements of AI](https://www.elementsofai.com/) — An incredibly accessible and widely completed foundational introduction to artificial intelligence principles backed by the University of Helsinki. `Free`
-- [Teach Yourself Computer Science](https://teachyourselfcs.com/) — A critically acclaimed, minimalist blueprint highlighting the 9 essential core engineering subjects every software engineer should read and study. `Free`
+- [Khan Academy](https://www.khanacademy.org/computing): Millions of global users utilize this platform for foundational math, computer science logic, and intro-level algorithms. `Free`
+- [freeCodeCamp](https://www.freecodecamp.org/): Massive global community with a highly popular, project-based curriculum spanning web development, data structures, and core programming concepts. `Free`
+- [Microsoft Learn](https://learn.microsoft.com/): High-traffic corporate learning ecosystem offering detailed, structured pathways for cloud engineering, developer tools, and enterprise AI. `Free`
+- [MIT OpenCourseWare](https://ocw.mit.edu/): The gold standard for free academic content, providing self-paced access to actual syllabi, problem sets, and video lectures straight from MIT's Computer Science tracks. `Free`
+- [CS50 (Harvard)](https://cs50.harvard.edu/): Arguably the world's most famous and highly enrolled introductory framework covering computer science principles and robust programmatic thinking. `Free`
+- [Kaggle](https://www.kaggle.com/): The premier data science hub globally, hosting free micro-courses, active public datasets, notebooks, and major machine learning competitions. `Free`
+- [Roadmap.sh](https://roadmap.sh/): An incredibly popular, community-driven visual roadmap platform used by hundreds of thousands of developers to navigate modern career tracks like Backend, DevOps, and AI. `Free`
+- [Hugging Face Learn](https://huggingface.co/learn): The absolute epicenter of modern AI and open-source NLP education, teaching developers how to implement real Transformer models and deep reinforcement learning. `Free`
+- [The Odin Project](https://www.theodinproject.com/): Highly popular, deep, open-source full-stack web development curriculum with a vast community backing self-taught software engineers. `Free`
+- [fast.ai](https://www.fast.ai/): Acclaimed top-down approach to deep learning that gets students building complex neural networks quickly before breaking down the underlying math. `Free`
+- [OSS University](https://github.com/ossu/computer-science): A viral, community-curated GitHub roadmap designed to mimic a full 4-year undergraduate computer science degree using entirely free resources. `Free`
+- [Exercism](https://exercism.org/): Well-adopted open-source practice platform featuring human code mentorship across more than 60 programming languages. `Free`
+- [Cognitive Class](https://cognitiveclass.ai/): IBM's dedicated virtual lab environment focused natively on building big data, cloud architecture, and AI infrastructure skills. `Free`
+- [Full Stack Open](https://fullstackopen.com/en/): The University of Helsinki's highly regarded modern web engineering program focusing on advanced JavaScript, React, Node.js, and CI/CD pipelines. `Free`
+- [Elements of AI](https://www.elementsofai.com/): An incredibly accessible and widely completed foundational introduction to artificial intelligence principles backed by the University of Helsinki. `Free`
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/): A critically acclaimed, minimalist blueprint highlighting the 9 essential core engineering subjects every software engineer should read and study. `Free`
 
 ### Freemium / Commercial
 
-- [Coursera](https://www.coursera.org/) — The global leader in university partnerships, hosting thousands of structured specializations, certificates, and accredited online degrees. `Freemium / Commercial`
-- [edX](https://www.edx.org/) — A massive academic repository partnering with institutions like Harvard, Berkeley, and MIT to offer MicroMasters and individual course auditing for free. `Freemium / Commercial`
-- [LeetCode](https://leetcode.com/) — The definitive, industry-standard engine for algorithm training, data structure mechanics, and technical whiteboard interview prep. `Freemium / Commercial`
-- [Codecademy](https://www.codecademy.com/) — Hugely popular introductory platform featuring highly interactive, browser-based playgrounds to practice raw syntax and OOP fundamentals. `Freemium / Commercial`
-- [DataCamp](https://www.datacamp.com/) — Highly recognizable, browser-led platform focusing entirely on practical data visualization, database querying, and machine learning pipelines. `Freemium / Commercial`
-- [Brilliant](https://brilliant.org/) — Heavily adopted visual-first learning application that uses bite-sized interactive modules to explain complex math, physics, and neural networks. `Freemium / Commercial`
-- [DeepLearning.AI](https://www.deeplearning.ai/) — Andrew Ng's highly authoritative training engine delivering industry-standard specializations in Deep Learning, GenAI, and MLOps. `Freemium / Commercial`
-- [Stanford Online](https://online.stanford.edu/) — Elite university portal giving the public direct access to Stanford's advanced engineering lectures, professional certs, and advanced degree options. `Freemium / Commercial`
-- [Codewars](https://www.codewars.com/) — A well-established, gamified coding environment where developers sharpen programmatic skills by solving peer-graded community challenges (kata). `Freemium / Commercial`
-- [NeetCode](https://neetcode.io/) — Explosive growth among technical job seekers for its highly structured, video-guided approach to mastering data structures, algorithms, and system design patterns. `Freemium / Commercial`
-- [AlgoExpert](https://www.algoexpert.io/) — A premium, highly marketed video interview prep platform meticulously detailing how to break down complex architectural and algorithmic problems. `Freemium / Commercial`
-- [Boot.dev](https://boot.dev/) — A rapidly growing, heavily gamified platform focusing specifically on the computer science fundamentals required for modern backend development (Python, Go, SQL). `Freemium / Commercial`
-- [CodeCrafters](https://codecrafters.io/) — A premium niche platform tailored for senior engineering practice, teaching internal architecture by forcing you to rebuild tools like Git, SQLite, or Docker from scratch. `Freemium / Commercial`
+- [Coursera](https://www.coursera.org/): The global leader in university partnerships, hosting thousands of structured specializations, certificates, and accredited online degrees. `Freemium / Commercial`
+- [edX](https://www.edx.org/): A massive academic repository partnering with institutions like Harvard, Berkeley, and MIT to offer MicroMasters and individual course auditing for free. `Freemium / Commercial`
+- [LeetCode](https://leetcode.com/): The definitive, industry-standard engine for algorithm training, data structure mechanics, and technical whiteboard interview prep. `Freemium / Commercial`
+- [Codecademy](https://www.codecademy.com/): Hugely popular introductory platform featuring highly interactive, browser-based playgrounds to practice raw syntax and OOP fundamentals. `Freemium / Commercial`
+- [DataCamp](https://www.datacamp.com/): Highly recognizable, browser-led platform focusing entirely on practical data visualization, database querying, and machine learning pipelines. `Freemium / Commercial`
+- [Brilliant](https://brilliant.org/): Heavily adopted visual-first learning application that uses bite-sized interactive modules to explain complex math, physics, and neural networks. `Freemium / Commercial`
+- [DeepLearning.AI](https://www.deeplearning.ai/): Andrew Ng's highly authoritative training engine delivering industry-standard specializations in Deep Learning, GenAI, and MLOps. `Freemium / Commercial`
+- [Stanford Online](https://online.stanford.edu/): Elite university portal giving the public direct access to Stanford's advanced engineering lectures, professional certs, and advanced degree options. `Freemium / Commercial`
+- [Codewars](https://www.codewars.com/): A well-established, gamified coding environment where developers sharpen programmatic skills by solving peer-graded community challenges (kata). `Freemium / Commercial`
+- [NeetCode](https://neetcode.io/): Explosive growth among technical job seekers for its highly structured, video-guided approach to mastering data structures, algorithms, and system design patterns. `Freemium / Commercial`
+- [AlgoExpert](https://www.algoexpert.io/): A premium, highly marketed video interview prep platform meticulously detailing how to break down complex architectural and algorithmic problems. `Freemium / Commercial`
+- [Boot.dev](https://boot.dev/): A rapidly growing, heavily gamified platform focusing specifically on the computer science fundamentals required for modern backend development (Python, Go, SQL). `Freemium / Commercial`
+- [CodeCrafters](https://codecrafters.io/): A premium niche platform tailored for senior engineering practice, teaching internal architecture by forcing you to rebuild tools like Git, SQLite, or Docker from scratch. `Freemium / Commercial`
 
 ### Commercial
 
-- [Udemy](https://www.udemy.com/) — The absolute titan of online course marketplaces, boasting an unmatched catalog of user-reviewed courses covering every niche tech stack imaginable. `Commercial`
-- [LinkedIn Learning](https://www.linkedin.com/learning/) — Massive corporate adoption, serving video training catalogs globally to help professionals build software, business, and cloud skills tied to their careers. `Commercial`
-- [Pluralsight](https://www.pluralsight.com/) — The baseline technical skill-assessment and learning infrastructure used extensively by enterprise IT departments, DevOps teams, and sysadmins. `Commercial`
-- [O'Reilly Learning](https://www.oreilly.com/) — Premium, enterprise-focused digital ecosystem offering complete access to classic technical textbooks, sandboxes, and expert video live streams. `Commercial`
-- [Udacity](https://www.udacity.com/) — Well-known for its intensive, career-oriented "Nanodegree" programs co-designed with major corporate tech stakeholders to bridge hiring gaps. `Commercial`
-- [Educative](https://www.educative.io/) — Popular text-based platform favored by experienced engineers for its ultra-fast, zero-setup interactive environments built for System Design and advanced code learning. `Commercial`
-- [Frontend Masters](https://frontendmasters.com/) — Highly targeted, advanced video workshop network focusing strictly on deep, production-grade JavaScript frameworks and modern web ecosystem architecture. `Commercial`
-- [Zero To Mastery (ZTM)](https://zerotomastery.io/) — Highly structured, independent academy building career-ready technical skills through curated full-stack, DevOps, and machine learning courses. `Commercial`
+- [Udemy](https://www.udemy.com/): The absolute titan of online course marketplaces, boasting an unmatched catalog of user-reviewed courses covering every niche tech stack imaginable. `Commercial`
+- [LinkedIn Learning](https://www.linkedin.com/learning/): Massive corporate adoption, serving video training catalogs globally to help professionals build software, business, and cloud skills tied to their careers. `Commercial`
+- [Pluralsight](https://www.pluralsight.com/): The baseline technical skill-assessment and learning infrastructure used extensively by enterprise IT departments, DevOps teams, and sysadmins. `Commercial`
+- [O'Reilly Learning](https://www.oreilly.com/): Premium, enterprise-focused digital ecosystem offering complete access to classic technical textbooks, sandboxes, and expert video live streams. `Commercial`
+- [Udacity](https://www.udacity.com/): Well-known for its intensive, career-oriented "Nanodegree" programs co-designed with major corporate tech stakeholders to bridge hiring gaps. `Commercial`
+- [Educative](https://www.educative.io/): Popular text-based platform favored by experienced engineers for its ultra-fast, zero-setup interactive environments built for System Design and advanced code learning. `Commercial`
+- [Frontend Masters](https://frontendmasters.com/): Highly targeted, advanced video workshop network focusing strictly on deep, production-grade JavaScript frameworks and modern web ecosystem architecture. `Commercial`
+- [Zero To Mastery (ZTM)](https://zerotomastery.io/): Highly structured, independent academy building career-ready technical skills through curated full-stack, DevOps, and machine learning courses. `Commercial`
 
 ---
 
@@ -135,160 +135,160 @@
 
 ### Java
 
-- [Oracle JDK](https://www.oracle.com/java/technologies/) — Official Java Development Kit offered directly by Oracle. `Commercial / Free for Personal Use`
-- [Adoptium OpenJDK](https://adoptium.net/) — High-quality, community-driven, and enterprise-grade OpenJDK builds backed by the Eclipse Foundation. [[GitHub](https://github.com/adoptium/jdk)] `Open Source`
-- [Azul Zulu OpenJDK](https://www.azul.com/downloads/?package=jdk#zulu) — Fully certified OpenJDK distributions optimized for highly secure, long-term enterprise footprints. [[Docker](https://github.com/zulu-openjdk/zulu-openjdk)] `Free / Commercial Support`
-- [Microsoft Build of OpenJDK](https://www.microsoft.com/openjdk) — Microsoft's dedicated OpenJDK distribution engineered for scalable cloud infrastructures. [[GitHub](https://github.com/microsoft/openjdk)] `Free`
+- [Oracle JDK](https://www.oracle.com/java/technologies/): Official Java Development Kit offered directly by Oracle. `Commercial / Free for Personal Use`
+- [Adoptium OpenJDK](https://adoptium.net/): High-quality, community-driven, and enterprise-grade OpenJDK builds backed by the Eclipse Foundation. [[GitHub](https://github.com/adoptium/jdk)] `Open Source`
+- [Azul Zulu OpenJDK](https://www.azul.com/downloads/?package=jdk#zulu): Fully certified OpenJDK distributions optimized for highly secure, long-term enterprise footprints. [[Docker](https://github.com/zulu-openjdk/zulu-openjdk)] `Free / Commercial Support`
+- [Microsoft Build of OpenJDK](https://www.microsoft.com/openjdk): Microsoft's dedicated OpenJDK distribution engineered for scalable cloud infrastructures. [[GitHub](https://github.com/microsoft/openjdk)] `Free`
 
 ### Python
 
-- [CPython](https://www.python.org/) — The foundational reference implementation of the Python programming language. [[GitHub](https://github.com/python/cpython)] `Open Source`
-- [Anaconda](https://www.anaconda.com/) — Extensively bundled Python and R distribution tailored strictly for heavy academic data-science and scientific computing packages. `Freemium / Commercial`
+- [CPython](https://www.python.org/): The foundational reference implementation of the Python programming language. [[GitHub](https://github.com/python/cpython)] `Open Source`
+- [Anaconda](https://www.anaconda.com/): Extensively bundled Python and R distribution tailored strictly for heavy academic data-science and scientific computing packages. `Freemium / Commercial`
 
 ---
 
 ## Online Survey & Classroom Engagement
 
-- [Mentimeter](https://www.mentimeter.com/) — Real-time audience response platform generating live polls, formative quizzes, and word clouds inside lectures. `Freemium`
-- [Padlet](https://padlet.com/) — Virtual canvas that lets students collaborate visually, post multi-media boards, and pin dynamic questions. `Freemium`
-- [Slido](https://www.slido.com/) — Polling and crowd-sourced Q&A tool built to slide smoothly into live presentation workflows. `Freemium`
-- [Google Forms](https://forms.google.com/) — Clean, effortless survey engine providing instantaneous CSV exports and rapid data visualization. `Free`
-- [Typeform](https://www.typeform.com/) — Highly design-centric, conversational interface forms optimized for improving survey response rates. `Freemium`
+- [Mentimeter](https://www.mentimeter.com/): Real-time audience response platform generating live polls, formative quizzes, and word clouds inside lectures. `Freemium`
+- [Padlet](https://padlet.com/): Virtual canvas that lets students collaborate visually, post multi-media boards, and pin dynamic questions. `Freemium`
+- [Slido](https://www.slido.com/): Polling and crowd-sourced Q&A tool built to slide smoothly into live presentation workflows. `Freemium`
+- [Google Forms](https://forms.google.com/): Clean, effortless survey engine providing instantaneous CSV exports and rapid data visualization. `Free`
+- [Typeform](https://www.typeform.com/): Highly design-centric, conversational interface forms optimized for improving survey response rates. `Freemium`
 
 ---
 
 ## Interactive Whiteboard
 
-- [Explain Everything](https://explaineverything.com/) — Collaborative digital canvas built for advanced real-time video tutoring and educational screencasting. `Freemium`
-- [Miro](https://miro.com/whiteboard/) — Heavy-duty enterprise visual platform for structuring architectures, systems diagrams, and group project sprints. `Freemium`
-- [Excalidraw](https://excalidraw.com/) — Virtual whiteboard utilizing an organic, hand-drawn wireframe aesthetic; phenomenal for software engineering concepts. [[GitHub](https://github.com/excalidraw/excalidraw)] `Open Source`
-- [FigJam](https://www.figma.com/figjam/) — Ideation whiteboard ecosystem from Figma, supporting rapid mapping and integrated collaborative widgets. `Freemium`
+- [Explain Everything](https://explaineverything.com/): Collaborative digital canvas built for advanced real-time video tutoring and educational screencasting. `Freemium`
+- [Miro](https://miro.com/whiteboard/): Heavy-duty enterprise visual platform for structuring architectures, systems diagrams, and group project sprints. `Freemium`
+- [Excalidraw](https://excalidraw.com/): Virtual whiteboard utilizing an organic, hand-drawn wireframe aesthetic; phenomenal for software engineering concepts. [[GitHub](https://github.com/excalidraw/excalidraw)] `Open Source`
+- [FigJam](https://www.figma.com/figjam/): Ideation whiteboard ecosystem from Figma, supporting rapid mapping and integrated collaborative widgets. `Freemium`
 
 ---
 
 ## Note-Taking & Knowledge Management
 
-- [Obsidian](https://obsidian.md/) — Local-first Markdown editor operating on top of a plain-text folder vault with a powerful bidirectional graph view. `Free for Personal / Commercial Option`
-- [Notion](https://www.notion.so/) — Relational database-backed visual workspace combining structural notes, task roadmaps, and research logs. `Freemium`
-- [Logseq](https://logseq.com/) — Privacy-first, open-source outliner leveraging a graph architecture to capture non-linear thoughts and logs. [[GitHub](https://github.com/logseq/logseq)] `Open Source`
-- [Roam Research](https://roamresearch.com/) — Networked thought-mapping note tool built entirely around granular block references and fluid cross-linking. `Commercial`
-- [Zettlr](https://www.zettlr.com/) — Academic-first Markdown editor with native Zotero, BibTeX, and citation integrations out of the box. [[GitHub](https://github.com/Zettlr/Zettlr)] `Open Source`
+- [Obsidian](https://obsidian.md/): Local-first Markdown editor operating on top of a plain-text folder vault with a powerful bidirectional graph view. `Free for Personal / Commercial Option`
+- [Notion](https://www.notion.so/): Relational database-backed visual workspace combining structural notes, task roadmaps, and research logs. `Freemium`
+- [Logseq](https://logseq.com/): Privacy-first, open-source outliner leveraging a graph architecture to capture non-linear thoughts and logs. [[GitHub](https://github.com/logseq/logseq)] `Open Source`
+- [Roam Research](https://roamresearch.com/): Networked thought-mapping note tool built entirely around granular block references and fluid cross-linking. `Commercial`
+- [Zettlr](https://www.zettlr.com/): Academic-first Markdown editor with native Zotero, BibTeX, and citation integrations out of the box. [[GitHub](https://github.com/Zettlr/Zettlr)] `Open Source`
 
 ---
 
 ## Reference Management
 
-- [Zotero](https://www.zotero.org/) — Robust reference manager with deep browser scraping capabilities and native word-processor integration. *(Highly Recommended)* [[GitHub](https://github.com/zotero/zotero)] `Open Source`
-- [JabRef](https://www.jabref.org/) — Desktop-native bibliography suite utilizing BibTeX as its native file format, built explicitly for LaTeX workflows. [[GitHub](https://github.com/JabRef/jabref)] `Open Source`
-- [EndNote](https://endnote.com/) — Heavyweight, enterprise commercial reference suite tailored for global medical and scientific laboratory publishing pipelines. `Commercial`
-- [Mendeley Reference Manager](https://www.mendeley.com/) — Cloud-centric citation management ecosystem managed by Elsevier featuring built-in PDF annotations. `Free`
-- [Paperpile](https://paperpile.com/) — High-velocity, web-native reference system with flawless Google Docs and Overleaf integration. `Commercial`
+- [Zotero](https://www.zotero.org/): Robust reference manager with deep browser scraping capabilities and native word-processor integration. *(Highly Recommended)* [[GitHub](https://github.com/zotero/zotero)] `Open Source`
+- [JabRef](https://www.jabref.org/): Desktop-native bibliography suite utilizing BibTeX as its native file format, built explicitly for LaTeX workflows. [[GitHub](https://github.com/JabRef/jabref)] `Open Source`
+- [EndNote](https://endnote.com/): Heavyweight, enterprise commercial reference suite tailored for global medical and scientific laboratory publishing pipelines. `Commercial`
+- [Mendeley Reference Manager](https://www.mendeley.com/): Cloud-centric citation management ecosystem managed by Elsevier featuring built-in PDF annotations. `Free`
+- [Paperpile](https://paperpile.com/): High-velocity, web-native reference system with flawless Google Docs and Overleaf integration. `Commercial`
 
 ---
 
 ## Ranking System
 
-- **Conference Rankings (CORE)** — [[CORE Portal](http://portal.core.edu.au/conf-ranks/)] — The standard computer science conference quality categorization index ($A^* \rightarrow C$).
-- **CSConferences (Emery Berger)** — [[Prof Emery Berger's list](https://github.com/emeryberger/csconferences)] — Interactive open tracking portal displaying premier academic computer science conference timelines.
-- **Journal Rankings (SCImago)** — [[SCImago](https://www.scimagojr.com/)] — Comprehensive scientific indicator database grading journal visibility and impact factor quartiles (Q1–Q4).
-- **Faculty & University Institutional Rankings** — [[CSRankings](https://csrankings.org/)] — Metrics-based ranking tracking global institutions transparently by counting faculty publications at top-tier venues.
-- **Citation Metrics Tracker** — [[Google Scholar Top Venues](https://scholar.google.com/citations?view_op=top_venues)] — Instantaneous exploration of real-time $h5$-index and visibility rankings for various computer science publications.
+- **Conference Rankings (CORE)**: [[CORE Portal](http://portal.core.edu.au/conf-ranks/)]: The standard computer science conference quality categorization index ($A^* \rightarrow C$).
+- **CSConferences (Emery Berger)**: [[Prof Emery Berger's list](https://github.com/emeryberger/csconferences)]: Interactive open tracking portal displaying premier academic computer science conference timelines.
+- **Journal Rankings (SCImago)**: [[SCImago](https://www.scimagojr.com/)]: Comprehensive scientific indicator database grading journal visibility and impact factor quartiles (Q1–Q4).
+- **Faculty & University Institutional Rankings**: [[CSRankings](https://csrankings.org/)]: Metrics-based ranking tracking global institutions transparently by counting faculty publications at top-tier venues.
+- **Citation Metrics Tracker**: [[Google Scholar Top Venues](https://scholar.google.com/citations?view_op=top_venues)]: Instantaneous exploration of real-time $h5$-index and visibility rankings for various computer science publications.
 
 ---
 
 ## Article Recommender
 
-- [Scholar Inbox](https://www.scholar-inbox.com/) — Tailored Daily arXiv digests contextually parsed to align directly with your publishing profile and keywords. `Free`
-- [Connected Papers](https://www.connectedpapers.com/) — Discovers related adjacent works visually based on co-citation proximity rather than direct citations alone. `Freemium`
-- [Litmaps Discover](https://www.litmaps.com/) — Searches literature graphs by uploading an entire collection of seed papers to discover relevant literature gaps. `Freemium`
-- [ResearchRabbit Discovery](https://www.researchrabbit.ai/) — Dynamic collection generation that updates and tracks recommendations based on user interaction trends. `Free`
+- [Scholar Inbox](https://www.scholar-inbox.com/): Tailored Daily arXiv digests contextually parsed to align directly with your publishing profile and keywords. `Free`
+- [Connected Papers](https://www.connectedpapers.com/): Discovers related adjacent works visually based on co-citation proximity rather than direct citations alone. `Freemium`
+- [Litmaps Discover](https://www.litmaps.com/): Searches literature graphs by uploading an entire collection of seed papers to discover relevant literature gaps. `Freemium`
+- [ResearchRabbit Discovery](https://www.researchrabbit.ai/): Dynamic collection generation that updates and tracks recommendations based on user interaction trends. `Free`
 
 ---
 
 ## Search Engine
 
-- [Google Scholar](https://scholar.google.com/) — The omnipresent index for tracking global multidisciplinary academic literature citations and metadata. `Free`
-- [Semantic Scholar](https://www.semanticscholar.org/) — AI search engine that interprets semantic relationships between papers to filter out low-impact noise. `Free`
-- [dblp computer science bibliography](https://dblp.org/) — The foundational repository indexing major computer science publications, conferences, and journal tracks. `Free`
-- [OpenAlex](https://openalex.org/) — A massive, fully open global index of the world's research system with a powerful API. `Free / Open Source`
-- [Bielefeld Academic Search Engine (BASE)](https://www.base-search.net/) — One of the world's most voluminously integrated open-access search indices managed by Bielefeld University Library. `Free`
-- [ResearchGate Search](https://www.researchgate.net/) — Social discovery engine where independent researchers actively post full-text prepub self-archived papers. `Free`
-- [CORE Academic Aggregator](https://core.ac.uk/) — The world's largest aggregator providing access to millions of open-access research papers harvested from repositories globally. `Free`
-- [Lens.org](https://www.lens.org/) — Open global discovery framework unifying patent applications alongside structural scientific literature metadata. `Free for open usage`
+- [Google Scholar](https://scholar.google.com/): The omnipresent index for tracking global multidisciplinary academic literature citations and metadata. `Free`
+- [Semantic Scholar](https://www.semanticscholar.org/): AI search engine that interprets semantic relationships between papers to filter out low-impact noise. `Free`
+- [dblp computer science bibliography](https://dblp.org/): The foundational repository indexing major computer science publications, conferences, and journal tracks. `Free`
+- [OpenAlex](https://openalex.org/): A massive, fully open global index of the world's research system with a powerful API. `Free / Open Source`
+- [Bielefeld Academic Search Engine (BASE)](https://www.base-search.net/): One of the world's most voluminously integrated open-access search indices managed by Bielefeld University Library. `Free`
+- [ResearchGate Search](https://www.researchgate.net/): Social discovery engine where independent researchers actively post full-text prepub self-archived papers. `Free`
+- [CORE Academic Aggregator](https://core.ac.uk/): The world's largest aggregator providing access to millions of open-access research papers harvested from repositories globally. `Free`
+- [Lens.org](https://www.lens.org/): Open global discovery framework unifying patent applications alongside structural scientific literature metadata. `Free for open usage`
 
 ---
 
 ## Preprint Article Repositories
 
-- [arXiv](https://arxiv.org/) — The premier open-access archive hosted by Cornell University for preprints across Computer Science, Physics, and Mathematics. `Free`
-- [bioRxiv](https://www.biorxiv.org/) / [medRxiv](https://www.medrxiv.org/) — Crucial preprint channels for computational biology, bioinformatics, and health informatics. `Free`
-- [SSRN](https://www.ssrn.com/) — Multidisciplinary platform owned by Elsevier, popular for early-stage digital economy and algorithmic law research. `Free`
-- [TechRxiv](https://www.techrxiv.org/) — IEEE's official open preprint server spanning electrical engineering, systems architecture, and computer science. `Free`
+- [arXiv](https://arxiv.org/): The premier open-access archive hosted by Cornell University for preprints across Computer Science, Physics, and Mathematics. `Free`
+- [bioRxiv](https://www.biorxiv.org/) / [medRxiv](https://www.medrxiv.org/): Crucial preprint channels for computational biology, bioinformatics, and health informatics. `Free`
+- [SSRN](https://www.ssrn.com/): Multidisciplinary platform owned by Elsevier, popular for early-stage digital economy and algorithmic law research. `Free`
+- [TechRxiv](https://www.techrxiv.org/): IEEE's official open preprint server spanning electrical engineering, systems architecture, and computer science. `Free`
 
 ---
 
 ## Dataset Repositories
 
-- [Papers With Code Datasets](https://paperswithcode.com/datasets) — Curated collection of machine learning benchmark datasets categorized with interactive model performance leaderboards. `Free / Open Source`
-- [Hugging Face Datasets](https://huggingface.co/datasets) — The largest hub for NLP, vision, and multimodal datasets, offering one-line programmatic downloads. `Free / Open Source`
-- [Kaggle Datasets](https://www.kaggle.com/datasets) — Diverse community-contributed data repository integrated with free cloud computing notebooks. `Free`
-- [UCI Machine Learning Repository](https://archive.ics.uci.edu/) — The classic, historic repository maintained by UC Irvine for empirical benchmarking of ML models. `Free`
-- [Google Dataset Search](https://datasetsearch.research.google.com/) — Dedicated search infrastructure designed to map out metadata pointing to datasets hidden across the web. `Free`
-- [OpenML](https://www.openml.org/) — Fully open machine learning platform for sharing datasets, execution logs, and experiment loops. `Open Source`
+- [Papers With Code Datasets](https://paperswithcode.com/datasets): Curated collection of machine learning benchmark datasets categorized with interactive model performance leaderboards. `Free / Open Source`
+- [Hugging Face Datasets](https://huggingface.co/datasets): The largest hub for NLP, vision, and multimodal datasets, offering one-line programmatic downloads. `Free / Open Source`
+- [Kaggle Datasets](https://www.kaggle.com/datasets): Diverse community-contributed data repository integrated with free cloud computing notebooks. `Free`
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/): The classic, historic repository maintained by UC Irvine for empirical benchmarking of ML models. `Free`
+- [Google Dataset Search](https://datasetsearch.research.google.com/): Dedicated search infrastructure designed to map out metadata pointing to datasets hidden across the web. `Free`
+- [OpenML](https://www.openml.org/): Fully open machine learning platform for sharing datasets, execution logs, and experiment loops. `Open Source`
 
 ---
 
 ## Data Sharing Platform
 
-- [Zenodo](https://zenodo.org/) — General-purpose open repository hosted by CERN allowing researchers to deposit datasets with an instant, citable DOI. `Free`
-- [OSF (Open Science Framework)](https://osf.io/) — Project pipeline manager designed to handle open-science project preregistrations, asset storage, and code deployments. `Free`
-- [Figshare](https://figshare.com/) — Cloud repository tailored for making academic outputs—including posters, figures, and datasets—easily discoverable. `Freemium`
-- [Dryad](https://datadryad.org/) — Curated data-publishing repository explicitly designed to fulfill open-data mandates from journal publishers. `Free to read / Publication Fee to deposit`
+- [Zenodo](https://zenodo.org/): General-purpose open repository hosted by CERN allowing researchers to deposit datasets with an instant, citable DOI. `Free`
+- [OSF (Open Science Framework)](https://osf.io/): Project pipeline manager designed to handle open-science project preregistrations, asset storage, and code deployments. `Free`
+- [Figshare](https://figshare.com/): Cloud repository tailored for making academic outputs (including posters, figures, and datasets) easily discoverable. `Freemium`
+- [Dryad](https://datadryad.org/): Curated data-publishing repository explicitly designed to fulfill open-data mandates from journal publishers. `Free to read / Publication Fee to deposit`
 
 ---
 
 ## Research Networking Platform
 
-- [ORCID](https://orcid.org/) — Provides researchers with a persistent, unique digital identifier to resolve identity disambiguation errors globally. `Free`
-- [Web of Science](https://clarivate.com/products/scientific-and-academic-research/research-discovery-and-workflow-solutions/webofscience-platform/) — Premium citation database used to evaluate journal impact factors and verify peer-review contributions. `Commercial`
-- [ResearchGate](https://www.researchgate.net/) — Professional academic network hosting internal discussions, question boards, and direct peer message links. `Free`
-- [Academia.edu](https://www.academia.edu/) — Commercial platform to share research papers, track real-time analytics, and join topic-based feeds. `Freemium`
+- [ORCID](https://orcid.org/): Provides researchers with a persistent, unique digital identifier to resolve identity disambiguation errors globally. `Free`
+- [Web of Science](https://clarivate.com/products/scientific-and-academic-research/research-discovery-and-workflow-solutions/webofscience-platform/): Premium citation database used to evaluate journal impact factors and verify peer-review contributions. `Commercial`
+- [ResearchGate](https://www.researchgate.net/): Professional academic network hosting internal discussions, question boards, and direct peer message links. `Free`
+- [Academia.edu](https://www.academia.edu/): Commercial platform to share research papers, track real-time analytics, and join topic-based feeds. `Freemium`
 
 ---
 
 ## Code Hosting & Version Control
 
-- [GitHub](https://github.com/) — The industry-standard code forge hosting source trees, pull requests, automated actions, and researcher portfolios. `Freemium`
-- [GitLab](https://gitlab.com/) — Comprehensive DevOps lifecycle platform featuring robust self-hosting variants favored by research institutes. [[GitHub](https://gitlab.com/gitlab-org/gitlab)] `Open Source / Commercial`
-- [Bitbucket](https://bitbucket.org/) — Code hosting provider deeply linked into the Atlassian enterprise ecosystem (Jira/Confluence). `Freemium`
-- [Software Heritage](https://www.softwareheritage.org/) — A universal, long-term archiving initiative dedicated to collecting, preserving, and sharing the source code of all publicly available software. `Free`
+- [GitHub](https://github.com/): The industry-standard code forge hosting source trees, pull requests, automated actions, and researcher portfolios. `Freemium`
+- [GitLab](https://gitlab.com/): Comprehensive DevOps lifecycle platform featuring robust self-hosting variants favored by research institutes. [[GitHub](https://gitlab.com/gitlab-org/gitlab)] `Open Source / Commercial`
+- [Bitbucket](https://bitbucket.org/): Code hosting provider deeply linked into the Atlassian enterprise ecosystem (Jira/Confluence). `Freemium`
+- [Software Heritage](https://www.softwareheritage.org/): A universal, long-term archiving initiative dedicated to collecting, preserving, and sharing the source code of all publicly available software. `Free`
 
 ---
 
 ## Source Code Finder
 
-- [GitHub Code Search](https://github.com/search) — Advanced indexing engine designed for searching across all public code files hosted on GitHub. `Free`
-- [Papers With Code](https://paperswithcode.com/) — Maps out official and independent GitHub code implementations directly attached to their respective machine learning papers. `Free`
-- [Sourcegraph](https://sourcegraph.com/) — Code intelligence platform allowing multi-repository regex lookups across multiple remote code infrastructures simultaneously. `Freemium`
+- [GitHub Code Search](https://github.com/search): Advanced indexing engine designed for searching across all public code files hosted on GitHub. `Free`
+- [Papers With Code](https://paperswithcode.com/): Maps out official and independent GitHub code implementations directly attached to their respective machine learning papers. `Free`
+- [Sourcegraph](https://sourcegraph.com/): Code intelligence platform allowing multi-repository regex lookups across multiple remote code infrastructures simultaneously. `Freemium`
 
 ---
 
 ## Live Demo
 
-- [Hugging Face Spaces](https://huggingface.co/spaces) — Instantly provisions computational resources to deploy machine learning prototypes using Gradio or Streamlit. `Freemium`
-- [Replicate](https://replicate.com/) — Highly scalable runtime deployment system allowing developers to run large open models behind a production API. `Commercial`
-- [Streamlit Community Cloud](https://streamlit.io/cloud) — Free hosting tier optimized for spinning up data-driven Python analytical frameworks directly from Git branches. `Free`
-- [Gradio](https://www.gradio.app/) — Python framework to wrap an ML inference model with a graphical UI and instantly share it via a public link. [[GitHub](https://github.com/gradio-app/gradio)] `Open Source`
+- [Hugging Face Spaces](https://huggingface.co/spaces): Instantly provisions computational resources to deploy machine learning prototypes using Gradio or Streamlit. `Freemium`
+- [Replicate](https://replicate.com/): Highly scalable runtime deployment system allowing developers to run large open models behind a production API. `Commercial`
+- [Streamlit Community Cloud](https://streamlit.io/cloud): Free hosting tier optimized for spinning up data-driven Python analytical frameworks directly from Git branches. `Free`
+- [Gradio](https://www.gradio.app/): Python framework to wrap an ML inference model with a graphical UI and instantly share it via a public link. [[GitHub](https://github.com/gradio-app/gradio)] `Open Source`
 
 ---
 
 ## Journal & Conference Submission
 
-- [OpenReview](https://openreview.net/) — Open-science peer review infrastructure managing double-blind and transparent reviews for flagship venues like NeurIPS and ICLR. `Free`
-- [EasyChair](https://easychair.org/) — Veteran conference management utility facilitating paper ingestion, track distributions, and reviewer assignments. `Freemium`
-- [HotCRP](https://hotcrp.com/) — Highly customizable conference management suite favored by systems, networking, and security review boards. [[GitHub](https://github.com/kohler/hotcrp)] `Open Source`
-- [Submission.science](https://submission.science/) — Clean real-time countdown resource displaying updated sub deadlines for AI and Systems conferences. `Free`
-- [WikiCFP](http://www.wikicfp.com/) — Searchable global hub for Calls For Papers across almost all scientific domains. `Free`
+- [OpenReview](https://openreview.net/): Open-science peer review infrastructure managing double-blind and transparent reviews for flagship venues like NeurIPS and ICLR. `Free`
+- [EasyChair](https://easychair.org/): Veteran conference management utility facilitating paper ingestion, track distributions, and reviewer assignments. `Freemium`
+- [HotCRP](https://hotcrp.com/): Highly customizable conference management suite favored by systems, networking, and security review boards. [[GitHub](https://github.com/kohler/hotcrp)] `Open Source`
+- [Submission.science](https://submission.science/): Clean real-time countdown resource displaying updated sub deadlines for AI and Systems conferences. `Free`
+- [WikiCFP](http://www.wikicfp.com/): Searchable global hub for Calls For Papers across almost all scientific domains. `Free`
 
 ---
 
@@ -296,62 +296,62 @@
 
 ### Distributions
 
-- [TeX Live](https://www.tug.org/texlive/) — Comprehensive, cross-platform default distribution containing all major TeX components for Linux and Windows systems. `Open Source`
-- [MacTeX](https://tug.org/mactex/) — TeX Live custom-bundled with macOS system integrations and visual interface utilities. *(Recommended for macOS)* `Open Source`
-- [MiKTeX](https://miktex.org/) — Windows-centric distribution engineered to seamlessly down-load packages automatically on-the-fly. *(Recommended for Windows)* `Open Source`
+- [TeX Live](https://www.tug.org/texlive/): Comprehensive, cross-platform default distribution containing all major TeX components for Linux and Windows systems. `Open Source`
+- [MacTeX](https://tug.org/mactex/): TeX Live custom-bundled with macOS system integrations and visual interface utilities. *(Recommended for macOS)* `Open Source`
+- [MiKTeX](https://miktex.org/): Windows-centric distribution engineered to seamlessly down-load packages automatically on-the-fly. *(Recommended for Windows)* `Open Source`
 
 ### Editors
 
-- [Overleaf](https://www.overleaf.com/) — Real-time cloud-collaborative LaTeX editor offering instant preview compiling, requiring zero local compilation setup. *(Highly Recommended for collaboration)* `Freemium`
-- [TeXstudio](https://www.texstudio.org/) — Feature-dense local IDE packed with interactive code folding, structural tree inspectors, and synchronous PDF view tracking. [[GitHub](https://github.com/texstudio-org/texstudio)] `Open Source`
-- [VSCode + LaTeX Workshop](https://code.visualstudio.com/) — Modern setup combining Microsoft's IDE with the premier LaTeX compilation plugin suite. [[GitHub (LaTeX Workshop)](https://github.com/James-Yu/LaTeX-Workshop)] *(Recommended for power users)* `Open Source`
-- [LyX](https://www.lyx.org/) — WYSIWYM (What You See Is What You Mean) editor abstracted for individuals who prefer visual document structuring without manual code adjustments. `Open Source`
+- [Overleaf](https://www.overleaf.com/): Real-time cloud-collaborative LaTeX editor offering instant preview compiling, requiring zero local compilation setup. *(Highly Recommended for collaboration)* `Freemium`
+- [TeXstudio](https://www.texstudio.org/): Feature-dense local IDE packed with interactive code folding, structural tree inspectors, and synchronous PDF view tracking. [[GitHub](https://github.com/texstudio-org/texstudio)] `Open Source`
+- [VSCode + LaTeX Workshop](https://code.visualstudio.com/): Modern setup combining Microsoft's IDE with the premier LaTeX compilation plugin suite. [[GitHub (LaTeX Workshop)](https://github.com/James-Yu/LaTeX-Workshop)] *(Recommended for power users)* `Open Source`
+- [LyX](https://www.lyx.org/): WYSIWYM (What You See Is What You Mean) editor abstracted for individuals who prefer visual document structuring without manual code adjustments. `Open Source`
 
 ### Templates & Resources
 
-- [Overleaf Template Gallery](https://www.overleaf.com/latex/templates) — Repository hosting thousands of verified journal styles, conference formatting standards, and thesis layout outlines. `Free`
-- [LaTeX Templates](https://www.latextemplates.com/) — Clean, meticulously commented, and easily customizable boilerplate templates for scientific publications. `Free`
-- [Detexify](https://detexify.kirelabs.org/classify.html) — Handwriting recognition app that converts drawn symbols into precise LaTeX syntax commands. `Free`
-- [Awesome LaTeX](https://github.com/egeerardyn/awesome-LaTeX) — Curated collection tracking specialized TeX macros, packages, and helper utilities. `Open Source`
+- [Overleaf Template Gallery](https://www.overleaf.com/latex/templates): Repository hosting thousands of verified journal styles, conference formatting standards, and thesis layout outlines. `Free`
+- [LaTeX Templates](https://www.latextemplates.com/): Clean, meticulously commented, and easily customizable boilerplate templates for scientific publications. `Free`
+- [Detexify](https://detexify.kirelabs.org/classify.html): Handwriting recognition app that converts drawn symbols into precise LaTeX syntax commands. `Free`
+- [Awesome LaTeX](https://github.com/egeerardyn/awesome-LaTeX): Curated collection tracking specialized TeX macros, packages, and helper utilities. `Open Source`
 
 ---
 
 ## Presentation Tools
 
-- [Beamer](https://ctan.org/pkg/beamer) — Flexible LaTeX document class for designing clean academic presentations with rigorous mathematical typesetting support. `Open Source`
-- [Reveal.js](https://revealjs.com/) — Advanced HTML presentation tool, allowing slides to run natively inside browsers with high-performance CSS transforms. [[GitHub](https://github.com/hakimel/reveal.js)] `Open Source`
-- [Slidev](https://sli.dev/) — Markdown-centered slideshow platform for developers, rendering full syntax coloring and developer tools directly on slides. [[GitHub](https://github.com/slidevjs/slidev)] `Open Source`
-- [Canva](https://www.canva.com/) — Rapid design platform packed with visual presets, layout vectors, and academic poster dimensions. `Freemium`
-- [Google Slides](https://slides.google.com/) — Cloud presentation software optimizing cross-team edits, history logs, and instant sharing features. `Free`
-- [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/powerpoint) — Powerhouse local multimedia slide presentation software featuring robust design capabilities. `Commercial`
+- [Beamer](https://ctan.org/pkg/beamer): Flexible LaTeX document class for designing clean academic presentations with rigorous mathematical typesetting support. `Open Source`
+- [Reveal.js](https://revealjs.com/): Advanced HTML presentation tool, allowing slides to run natively inside browsers with high-performance CSS transforms. [[GitHub](https://github.com/hakimel/reveal.js)] `Open Source`
+- [Slidev](https://sli.dev/): Markdown-centered slideshow platform for developers, rendering full syntax coloring and developer tools directly on slides. [[GitHub](https://github.com/slidevjs/slidev)] `Open Source`
+- [Canva](https://www.canva.com/): Rapid design platform packed with visual presets, layout vectors, and academic poster dimensions. `Freemium`
+- [Google Slides](https://slides.google.com/): Cloud presentation software optimizing cross-team edits, history logs, and instant sharing features. `Free`
+- [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/powerpoint): Powerhouse local multimedia slide presentation software featuring robust design capabilities. `Commercial`
 
 ---
 
 ## Grammar & Writing Assistants
 
-- [Grammarly](https://www.grammarly.com/) — AI writing assistant focusing on clearing mechanical style flaws, sentence structural clarity, and typographical slip-ups. `Freemium`
-- [QuillBot](https://quillbot.com/) — Highly optimized contextual paraphrasing and thesaurus utility built to assist re-wording repetitive passages. `Freemium`
-- [Trinka AI](https://www.trinka.ai/) — Contextual writing assistant built explicitly around editing technical engineering jargon and formal academic terminology. `Freemium`
-- [LanguageTool](https://languagetool.org/) — Privacy-respecting, multilingual open grammar core providing standalone offline deployment capabilities. [[GitHub](https://github.com/languagetool-org/languagetool)] `Open Source / Freemium`
-- [Hemingway Editor](https://hemingwayapp.com/) — Clean editor that highlights dense sentences, passive voice patterns, and complex phrasing to improve readability. `Free Web / Commercial Desktop`
+- [Grammarly](https://www.grammarly.com/): AI writing assistant focusing on clearing mechanical style flaws, sentence structural clarity, and typographical slip-ups. `Freemium`
+- [QuillBot](https://quillbot.com/): Highly optimized contextual paraphrasing and thesaurus utility built to assist re-wording repetitive passages. `Freemium`
+- [Trinka AI](https://www.trinka.ai/): Contextual writing assistant built explicitly around editing technical engineering jargon and formal academic terminology. `Freemium`
+- [LanguageTool](https://languagetool.org/): Privacy-respecting, multilingual open grammar core providing standalone offline deployment capabilities. [[GitHub](https://github.com/languagetool-org/languagetool)] `Open Source / Freemium`
+- [Hemingway Editor](https://hemingwayapp.com/): Clean editor that highlights dense sentences, passive voice patterns, and complex phrasing to improve readability. `Free Web / Commercial Desktop`
 
 ---
 
 ## Plagiarism & AI Detection
 
-- [Turnitin / iThenticate](https://www.turnitin.com/) — Elite enterprise checking application referenced across leading publishing houses to confirm manuscript originality. `Commercial`
-- [Scribbr Plagiarism Checker](https://www.scribbr.com/plagiarism-checker/) — Consumer accessible checking portal running directly on top of the expansive Turnitin comparison database. `Commercial`
-- [Copyleaks](https://copyleaks.com/) — High-speed plagiarism checker augmented with advanced linguistic mapping to identify AI-generated patterns. `Commercial`
+- [Turnitin / iThenticate](https://www.turnitin.com/): Elite enterprise checking application referenced across leading publishing houses to confirm manuscript originality. `Commercial`
+- [Scribbr Plagiarism Checker](https://www.scribbr.com/plagiarism-checker/): Consumer accessible checking portal running directly on top of the expansive Turnitin comparison database. `Commercial`
+- [Copyleaks](https://copyleaks.com/): High-speed plagiarism checker augmented with advanced linguistic mapping to identify AI-generated patterns. `Commercial`
 
 ---
 
 ## Free Stock Images & Icons
 
-- [Freepik](https://www.freepik.com/) — Massive asset library containing abstract vector shapes, layout illustrations, and generic structural graphics. `Freemium`
-- [Unsplash](https://unsplash.com/) — permissive, high-fidelity stock photography ideal for splash backgrounds and key presentation title cards. `Free`
-- [Pexels](https://www.pexels.com/) — Fully accessible library of royalty-free stock imagery and media clips under permissive licenses. `Free`
-- [The Noun Project](https://thenounproject.com/) — Exceptional collection of minimalist vector icons; an invaluable asset for creating system architecture diagrams. `Freemium`
-- [Flaticon](https://www.flaticon.com/) — Huge global resource providing grouped sets of multicolored, theme-consistent vector iconography across formats. `Freemium`
+- [Freepik](https://www.freepik.com/): Massive asset library containing abstract vector shapes, layout illustrations, and generic structural graphics. `Freemium`
+- [Unsplash](https://unsplash.com/): permissive, high-fidelity stock photography ideal for splash backgrounds and key presentation title cards. `Free`
+- [Pexels](https://www.pexels.com/): Fully accessible library of royalty-free stock imagery and media clips under permissive licenses. `Free`
+- [The Noun Project](https://thenounproject.com/): Exceptional collection of minimalist vector icons; an invaluable asset for creating system architecture diagrams. `Freemium`
+- [Flaticon](https://www.flaticon.com/): Huge global resource providing grouped sets of multicolored, theme-consistent vector iconography across formats. `Freemium`
 
 ---
 
@@ -359,35 +359,35 @@
 
 ### Conferences
 
-- [International Computing Education Research Workshop (ICER)](https://dblp.org/streams/conf/icer) — ACM. `CORE A`
-- [Computer Science Education (SIGCSE)](https://dblp.org/streams/conf/sigcse) — ACM. `CORE A`
-- [International Conference on Artificial Intelligence in Education (AIED)](https://dblp.org/streams/conf/aied) — Springer. `CORE A`
-- [Innovation and Technology in Computer Science Education (ITiCSE)](https://dblp.org/streams/conf/iticse) — ACM. `CORE B`
-- [International Conference on Computer Supported Education (CSEDU)](https://dblp.org/streams/conf/csedu) — SciTePress. `CORE B`
-- [International Conference on Advanced Learning Technologies (ICALT)](https://dblp.org/streams/conf/icalt) — IEEE. `CORE B`
-- [European Conference on Technology Enhanced Learning (EC-TEL)](https://dblp.org/streams/conf/ectel) — Springer. `CORE B`
-- [Frontiers in Education Conference (FIE)](https://dblp.org/streams/conf/fie) — IEEE. `CORE C`
-- [Koli Calling International Conference on Computing Education Research (Koli Calling)](https://dblp.org/streams/conf/kolicalling) — ACM. `Unranked`
-- [Computing Education Practice (CEP)](https://dblp.org/streams/conf/cep) — ACM. `Unranked`
-- [UK & Ireland Computing Education (UKICER)](https://dblp.org/streams/conf/ukicer) — ACM. `Unranked`
+- [International Computing Education Research Workshop (ICER)](https://dblp.org/streams/conf/icer): ACM. `CORE A`
+- [Computer Science Education (SIGCSE)](https://dblp.org/streams/conf/sigcse): ACM. `CORE A`
+- [International Conference on Artificial Intelligence in Education (AIED)](https://dblp.org/streams/conf/aied): Springer. `CORE A`
+- [Innovation and Technology in Computer Science Education (ITiCSE)](https://dblp.org/streams/conf/iticse): ACM. `CORE B`
+- [International Conference on Computer Supported Education (CSEDU)](https://dblp.org/streams/conf/csedu): SciTePress. `CORE B`
+- [International Conference on Advanced Learning Technologies (ICALT)](https://dblp.org/streams/conf/icalt): IEEE. `CORE B`
+- [European Conference on Technology Enhanced Learning (EC-TEL)](https://dblp.org/streams/conf/ectel): Springer. `CORE B`
+- [Frontiers in Education Conference (FIE)](https://dblp.org/streams/conf/fie): IEEE. `CORE C`
+- [Koli Calling International Conference on Computing Education Research (Koli Calling)](https://dblp.org/streams/conf/kolicalling): ACM. `Unranked`
+- [Computing Education Practice (CEP)](https://dblp.org/streams/conf/cep): ACM. `Unranked`
+- [UK & Ireland Computing Education (UKICER)](https://dblp.org/streams/conf/ukicer): ACM. `Unranked`
 
 ### Journals
 
-- [Computers and Education](https://www.sciencedirect.com/journal/computers-and-education) — Elsevier. [[SJR](https://www.scimagojr.com/journalsearch.php?q=17645&tip=sid)] `SJR Q1` `Open Access`
-- [International Journal of Educational Technology in Higher Education](https://educationaltechnologyjournal.springeropen.com) — Springer. [[SJR](https://www.scimagojr.com/journalsearch.php?q=21100466714&tip=sid)] `SJR Q1` `Open Access`
-- [International Journal of STEM Education](https://stemeducationjournal.springeropen.com) — Springer. [[SJR](https://www.scimagojr.com/journalsearch.php?q=21100873488&tip=sid)] `SJR Q1` `Open Access`
-- [Educational Technology Research and Development](https://link.springer.com/journal/11423) — Springer. [[SJR](https://www.scimagojr.com/journalsearch.php?q=20764&tip=sid)] `SJR Q1` `Open Access`
-- [Journal of Science Education and Technology](https://link.springer.com/journal/10956) — Springer. [[SJR](https://www.scimagojr.com/journalsearch.php?q=23646&tip=sid)] `SJR Q1` `Open Access`
-- [IEEE Transactions on Learning Technologies](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4620076) — IEEE. [[SJR](https://www.scimagojr.com/journalsearch.php?q=19700167026&tip=sid)] `SJR Q1` `Open Access`
-- [Journal of Computing in Higher Education](https://link.springer.com/journal/12528) — Springer. [[SJR](https://www.scimagojr.com/journalsearch.php?q=17600155502&tip=sid)] `SJR Q1` `Open Access`
+- [Computers and Education](https://www.sciencedirect.com/journal/computers-and-education): Elsevier. [[SJR](https://www.scimagojr.com/journalsearch.php?q=17645&tip=sid)] `SJR Q1` `Open Access`
+- [International Journal of Educational Technology in Higher Education](https://educationaltechnologyjournal.springeropen.com): Springer. [[SJR](https://www.scimagojr.com/journalsearch.php?q=21100466714&tip=sid)] `SJR Q1` `Open Access`
+- [International Journal of STEM Education](https://stemeducationjournal.springeropen.com): Springer. [[SJR](https://www.scimagojr.com/journalsearch.php?q=21100873488&tip=sid)] `SJR Q1` `Open Access`
+- [Educational Technology Research and Development](https://link.springer.com/journal/11423): Springer. [[SJR](https://www.scimagojr.com/journalsearch.php?q=20764&tip=sid)] `SJR Q1` `Open Access`
+- [Journal of Science Education and Technology](https://link.springer.com/journal/10956): Springer. [[SJR](https://www.scimagojr.com/journalsearch.php?q=23646&tip=sid)] `SJR Q1` `Open Access`
+- [IEEE Transactions on Learning Technologies](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4620076): IEEE. [[SJR](https://www.scimagojr.com/journalsearch.php?q=19700167026&tip=sid)] `SJR Q1` `Open Access`
+- [Journal of Computing in Higher Education](https://link.springer.com/journal/12528): Springer. [[SJR](https://www.scimagojr.com/journalsearch.php?q=17600155502&tip=sid)] `SJR Q1` `Open Access`
 
 ---
 
 ## Related
  
-- [awesome-computer-vision-resources](https://github.com/mawady/awesome-cv) — Structured learning reference for computer vision: from image fundamentals to research frontiers.
-- [awesome-computer-vision-tools](https://github.com/mawady/awesome-computer-vision-tools) — Curated tools for the full CV pipeline: training, data augmentation, experiment tracking, inference, edge deployment, and MLOps.
-- [cv-recipes](https://github.com/mawady/cv-recipes) — Practical computer vision recipes for educational and research use (Python / Colab notebooks).
+- [awesome-computer-vision-resources](https://github.com/mawady/awesome-cv): Structured learning reference for computer vision: from image fundamentals to research frontiers.
+- [awesome-computer-vision-tools](https://github.com/mawady/awesome-computer-vision-tools): Curated tools for the full CV pipeline: training, data augmentation, experiment tracking, inference, edge deployment, and MLOps.
+- [cv-recipes](https://github.com/mawady/cv-recipes): Practical computer vision recipes for educational and research use (Python / Colab notebooks).
 
 ---
 
