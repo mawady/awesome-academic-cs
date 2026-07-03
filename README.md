@@ -409,7 +409,7 @@
 
 ## ToDo
 
-- Wireframes & Mockups & Prototypes
+- Clean sections
 
 ---
 
