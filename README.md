@@ -373,13 +373,13 @@
 
 ### Journals
 
-- [Computers and Education](https://www.sciencedirect.com/journal/computers-and-education) — Elsevier. `SJR Q1` `Open Access`
-- [International Journal of Educational Technology in Higher Education](https://educationaltechnologyjournal.springeropen.com) — Springer. `SJR Q1` `Open Access`
-- [International Journal of STEM Education](https://stemeducationjournal.springeropen.com) — Springer. `SJR Q1` `Open Access`
-- [Educational Technology Research and Development](https://link.springer.com/journal/11423) — Springer. `SJR Q1` `Open Access`
-- [Journal of Science Education and Technology](https://link.springer.com/journal/10956) — Springer. `SJR Q1` `Open Access`
-- [IEEE Transactions on Learning Technologies](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4620076) — IEEE. `SJR Q1` `Open Access`
-- [Journal of Computing in Higher Education](https://link.springer.com/journal/12528) — Springer. `SJR Q1` `Open Access`
+- [Computers and Education](https://www.sciencedirect.com/journal/computers-and-education) — Elsevier. [[SJR](https://www.scimagojr.com/journalsearch.php?q=17645&tip=sid)] `SJR Q1` `Open Access`
+- [International Journal of Educational Technology in Higher Education](https://educationaltechnologyjournal.springeropen.com) — Springer. [[SJR](https://www.scimagojr.com/journalsearch.php?q=21100466714&tip=sid)] `SJR Q1` `Open Access`
+- [International Journal of STEM Education](https://stemeducationjournal.springeropen.com) — Springer. [[SJR](https://www.scimagojr.com/journalsearch.php?q=21100873488&tip=sid)] `SJR Q1` `Open Access`
+- [Educational Technology Research and Development](https://link.springer.com/journal/11423) — Springer. [[SJR](https://www.scimagojr.com/journalsearch.php?q=20764&tip=sid)] `SJR Q1` `Open Access`
+- [Journal of Science Education and Technology](https://link.springer.com/journal/10956) — Springer. [[SJR](https://www.scimagojr.com/journalsearch.php?q=23646&tip=sid)] `SJR Q1` `Open Access`
+- [IEEE Transactions on Learning Technologies](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4620076) — IEEE. [[SJR](https://www.scimagojr.com/journalsearch.php?q=19700167026&tip=sid)] `SJR Q1` `Open Access`
+- [Journal of Computing in Higher Education](https://link.springer.com/journal/12528) — Springer. [[SJR](https://www.scimagojr.com/journalsearch.php?q=17600155502&tip=sid)] `SJR Q1` `Open Access`
 
 ---
 
