@@ -371,6 +371,8 @@
 - [Koli Calling International Conference on Computing Education Research (Koli Calling)](https://dblp.org/streams/conf/kolicalling): ACM. `Unranked`
 - [Computing Education Practice (CEP)](https://dblp.org/streams/conf/cep): ACM. `Unranked`
 - [UK & Ireland Computing Education (UKICER)](https://dblp.org/streams/conf/ukicer): ACM. `Unranked`
+- [Virtual Global Computing Education Conference (SIGCSE Virtual)](https://dblp.org/streams/conf/sigcsevirtual): ACM. `Unranked`
+
 
 ### Journals
 
