@@ -120,16 +120,16 @@
 
 ### Java
 
-- [Oracle JDK](https://www.oracle.com/java/technologies/): Official Java Development Kit offered directly by Oracle. `Commercial / Free for Personal Use`
 - [Adoptium OpenJDK](https://adoptium.net/): High-quality, community-driven, and enterprise-grade OpenJDK builds backed by the Eclipse Foundation. [[GitHub](https://github.com/adoptium/jdk)] `Open Source`
-- [Azul Zulu OpenJDK](https://www.azul.com/downloads/?package=jdk#zulu): Fully certified OpenJDK distributions optimized for highly secure, long-term enterprise footprints. [[Docker](https://github.com/zulu-openjdk/zulu-openjdk)] `Free / Commercial Support`
 - [Microsoft Build of OpenJDK](https://www.microsoft.com/openjdk): Microsoft's dedicated OpenJDK distribution engineered for scalable cloud infrastructures. [[GitHub](https://github.com/microsoft/openjdk)] `Free`
+- [Oracle JDK](https://www.oracle.com/java/technologies/): Official Java Development Kit offered directly by Oracle. `Freemium / Commercial`
+- [Azul Zulu OpenJDK](https://www.azul.com/downloads/?package=jdk#zulu): Fully certified OpenJDK distributions optimized for highly secure, long-term enterprise footprints. [[Docker](https://github.com/zulu-openjdk/zulu-openjdk)] `Freemium / Commercial`
 
 ### Python
 
+- [uv](https://docs.astral.sh/uv/): An extremely fast, modern Python package and project manager written in Rust, designed as a drop-in replacement for workflows involving `pip`, `pip-tools`, `virtualenv`, and parts of `conda`. It provides dependency resolution, virtual environment management, Python version installation, and reproducible project workflows in a single lightweight tool. [[GitHub](https://github.com/astral-sh/uv)] `Open Source`
 - [CPython](https://www.python.org/): The foundational reference implementation of the Python programming language. [[GitHub](https://github.com/python/cpython)] `Open Source`
 - [Anaconda](https://www.anaconda.com/): Extensively bundled Python and R distribution tailored strictly for heavy academic data-science and scientific computing packages. `Freemium / Commercial`
-- [uv](https://docs.astral.sh/uv/): An extremely fast, modern Python package and project manager written in Rust, designed as a drop-in replacement for workflows involving `pip`, `pip-tools`, `virtualenv`, and parts of `conda`. It provides dependency resolution, virtual environment management, Python version installation, and reproducible project workflows in a single lightweight tool. [[GitHub](https://github.com/astral-sh/uv)] `Open Source`
 
 ### C++
 
