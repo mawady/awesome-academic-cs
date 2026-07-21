@@ -83,7 +83,7 @@
 
 ## Online Learning Platforms
 
-> Ordered by `Free`, `Freemium / Commercial` and `Commercial`
+> Ordered by `Free`, `Freemium` and `Commercial`
 
 - [Khan Academy](https://www.khanacademy.org/computing): Millions of global users utilize this platform for foundational math, computer science logic, and intro-level algorithms. `Free`
 - [freeCodeCamp](https://www.freecodecamp.org/): Massive global community with a highly popular, project-based curriculum spanning web development, data structures, and core programming concepts. `Free`
@@ -97,16 +97,16 @@
 - [fast.ai](https://www.fast.ai/): Acclaimed top-down approach to deep learning that gets students building complex neural networks quickly before breaking down the underlying math. `Free`
 - [Exercism](https://exercism.org/): Well-adopted open-source practice platform featuring human code mentorship across more than 60 programming languages. `Free`
 - [Cognitive Class](https://cognitiveclass.ai/): IBM's dedicated virtual lab environment focused natively on building big data, cloud architecture, and AI infrastructure skills. `Free`
-- [Coursera](https://www.coursera.org/): The global leader in university partnerships, hosting thousands of structured specializations, certificates, and accredited online degrees. `Freemium / Commercial`
-- [edX](https://www.edx.org/): A massive academic repository partnering with institutions like Harvard, Berkeley, and MIT to offer MicroMasters and individual course auditing for free. `Freemium / Commercial`
-- [LeetCode](https://leetcode.com/): The definitive, industry-standard engine for algorithm training, data structure mechanics, and technical whiteboard interview prep. `Freemium / Commercial`
-- [Codecademy](https://www.codecademy.com/): Hugely popular introductory platform featuring highly interactive, browser-based playgrounds to practice raw syntax and OOP fundamentals. `Freemium / Commercial`
-- [DataCamp](https://www.datacamp.com/): Highly recognizable, browser-led platform focusing entirely on practical data visualization, database querying, and machine learning pipelines. `Freemium / Commercial`
-- [Brilliant](https://brilliant.org/): Heavily adopted visual-first learning application that uses bite-sized interactive modules to explain complex math, physics, and neural networks. `Freemium / Commercial`
-- [DeepLearning.AI](https://www.deeplearning.ai/): Andrew Ng's highly authoritative training engine delivering industry-standard specializations in Deep Learning, GenAI, and MLOps. `Freemium / Commercial`
-- [Stanford Online](https://online.stanford.edu/): Elite university portal giving the public direct access to Stanford's advanced engineering lectures, professional certs, and advanced degree options. `Freemium / Commercial`
-- [NeetCode](https://neetcode.io/): Explosive growth among technical job seekers for its highly structured, video-guided approach to mastering data structures, algorithms, and system design patterns. `Freemium / Commercial`
-- [AlgoExpert](https://www.algoexpert.io/): A premium, highly marketed video interview prep platform meticulously detailing how to break down complex architectural and algorithmic problems. `Freemium / Commercial`
+- [Coursera](https://www.coursera.org/): The global leader in university partnerships, hosting thousands of structured specializations, certificates, and accredited online degrees. `Freemium`
+- [edX](https://www.edx.org/): A massive academic repository partnering with institutions like Harvard, Berkeley, and MIT to offer MicroMasters and individual course auditing for free. `Freemium`
+- [LeetCode](https://leetcode.com/): The definitive, industry-standard engine for algorithm training, data structure mechanics, and technical whiteboard interview prep. `Freemium`
+- [Codecademy](https://www.codecademy.com/): Hugely popular introductory platform featuring highly interactive, browser-based playgrounds to practice raw syntax and OOP fundamentals. `Freemium`
+- [DataCamp](https://www.datacamp.com/): Highly recognizable, browser-led platform focusing entirely on practical data visualization, database querying, and machine learning pipelines. `Freemium`
+- [Brilliant](https://brilliant.org/): Heavily adopted visual-first learning application that uses bite-sized interactive modules to explain complex math, physics, and neural networks. `Freemium`
+- [DeepLearning.AI](https://www.deeplearning.ai/): Andrew Ng's highly authoritative training engine delivering industry-standard specializations in Deep Learning, GenAI, and MLOps. `Freemium`
+- [Stanford Online](https://online.stanford.edu/): Elite university portal giving the public direct access to Stanford's advanced engineering lectures, professional certs, and advanced degree options. `Freemium`
+- [NeetCode](https://neetcode.io/): Explosive growth among technical job seekers for its highly structured, video-guided approach to mastering data structures, algorithms, and system design patterns. `Freemium`
+- [AlgoExpert](https://www.algoexpert.io/): A premium, highly marketed video interview prep platform meticulously detailing how to break down complex architectural and algorithmic problems. `Freemium`
 - [Udemy](https://www.udemy.com/): The absolute titan of online course marketplaces, boasting an unmatched catalog of user-reviewed courses covering every niche tech stack imaginable. `Commercial`
 - [LinkedIn Learning](https://www.linkedin.com/learning/): Massive corporate adoption, serving video training catalogs globally to help professionals build software, business, and cloud skills tied to their careers. `Commercial`
 - [Pluralsight](https://www.pluralsight.com/): The baseline technical skill-assessment and learning infrastructure used extensively by enterprise IT departments, DevOps teams, and sysadmins. `Commercial`
@@ -122,22 +122,22 @@
 
 - [Adoptium OpenJDK](https://adoptium.net/): High-quality, community-driven, and enterprise-grade OpenJDK builds backed by the Eclipse Foundation. [[GitHub](https://github.com/adoptium/jdk)] `Open Source`
 - [Microsoft Build of OpenJDK](https://www.microsoft.com/openjdk): Microsoft's dedicated OpenJDK distribution engineered for scalable cloud infrastructures. [[GitHub](https://github.com/microsoft/openjdk)] `Free`
-- [Oracle JDK](https://www.oracle.com/java/technologies/): Official Java Development Kit offered directly by Oracle. `Freemium / Commercial`
-- [Azul Zulu OpenJDK](https://www.azul.com/downloads/?package=jdk#zulu): Fully certified OpenJDK distributions optimized for highly secure, long-term enterprise footprints. [[Docker](https://github.com/zulu-openjdk/zulu-openjdk)] `Freemium / Commercial`
+- [Oracle JDK](https://www.oracle.com/java/technologies/): Official Java Development Kit offered directly by Oracle. `Freemium`
+- [Azul Zulu OpenJDK](https://www.azul.com/downloads/?package=jdk#zulu): Fully certified OpenJDK distributions optimized for highly secure, long-term enterprise footprints. [[Docker](https://github.com/zulu-openjdk/zulu-openjdk)] `Freemium`
 
 ### Python
 
 - [uv](https://docs.astral.sh/uv/): An extremely fast, modern Python package and project manager written in Rust, designed as a drop-in replacement for workflows involving `pip`, `pip-tools`, `virtualenv`, and parts of `conda`. It provides dependency resolution, virtual environment management, Python version installation, and reproducible project workflows in a single lightweight tool. [[GitHub](https://github.com/astral-sh/uv)] `Open Source`
 - [CPython](https://www.python.org/): The foundational reference implementation of the Python programming language. [[GitHub](https://github.com/python/cpython)] `Open Source`
-- [Anaconda](https://www.anaconda.com/): Extensively bundled Python and R distribution tailored strictly for heavy academic data-science and scientific computing packages. `Freemium / Commercial`
+- [Anaconda](https://www.anaconda.com/): Extensively bundled Python and R distribution tailored strictly for heavy academic data-science and scientific computing packages. `Freemium`
 
 ### C++
 
 - [GCC](https://gcc.gnu.org/): The GNU Compiler Collection providing a mature, widely adopted open-source compiler toolchain for C, C++, and other programming languages with extensive platform support. [[GitHub](https://github.com/gcc-mirror/gcc)] `Open Source`
 - [Clang](https://clang.llvm.org/): A modern C/C++ compiler front end built on LLVM, offering fast compilation, excellent diagnostics, strong standards compliance, and integration with advanced tooling ecosystems. [[GitHub](https://github.com/llvm/llvm-project)] `Open Source`
 - [MinGW-w64](https://www.mingw-w64.org/): A free and open-source development environment providing GCC-based C and C++ compilers for building native Windows applications. [[GitHub](https://github.com/mingw-w64/mingw-w64)] `Open Source`
-- [Microsoft Visual C++ (MSVC)](https://visualstudio.microsoft.com/vs/features/cplusplus/): Microsoft's C++ compiler and development toolchain integrated with Visual Studio, optimized for Windows application development and enterprise software. `Freemium / Commercial`
-- [Intel oneAPI DPC++/C++ Compiler](https://www.intel.com/content/www/us/en/developer/tools/oneapi/dpc-compiler.html): Intel's C++ compiler optimized for high-performance computing, parallel programming, and Intel CPU/GPU architectures. `Freemium / Commercial`
+- [Microsoft Visual C++ (MSVC)](https://visualstudio.microsoft.com/vs/features/cplusplus/): Microsoft's C++ compiler and development toolchain integrated with Visual Studio, optimized for Windows application development and enterprise software. `Freemium`
+- [Intel oneAPI DPC++/C++ Compiler](https://www.intel.com/content/www/us/en/developer/tools/oneapi/dpc-compiler.html): Intel's C++ compiler optimized for high-performance computing, parallel programming, and Intel CPU/GPU architectures. `Freemium`
 
 ### Javascript
 
@@ -155,8 +155,8 @@
 - [MariaDB](https://mariadb.org/): A community-developed relational database management system created as a MySQL-compatible alternative, emphasizing performance, openness, and enterprise reliability. [[GitHub](https://github.com/MariaDB/server)] `Database` `Open Source`
 - [SQLite](https://www.sqlite.org/): A lightweight, embedded relational database engine providing a self-contained, serverless SQL database widely used in applications, mobile systems, and local data storage. [[GitHub](https://github.com/sqlite/sqlite)] `Database` `Open Source`
 - [DuckDB](https://duckdb.org/): An embedded analytical SQL database optimized for high-performance local analytics, columnar processing, and data science workflows. [[GitHub](https://github.com/duckdb/duckdb)] `Database` `Open Source`
-- [MySQL](https://www.mysql.com/): A widely adopted open-source relational database management system optimized for web applications, transactional workloads, and large-scale data-driven systems. [[GitHub](https://github.com/mysql/mysql-server)] `Database` `Freemium / Commercial`
-- [Microsoft SQL Server](https://www.microsoft.com/sql-server): Microsoft's enterprise relational database platform offering advanced analytics, security, high availability, and integration with the Microsoft data ecosystem. `Database` `Freemium / Commercial`
+- [MySQL](https://www.mysql.com/): A widely adopted open-source relational database management system optimized for web applications, transactional workloads, and large-scale data-driven systems. [[GitHub](https://github.com/mysql/mysql-server)] `Database` `Freemium`
+- [Microsoft SQL Server](https://www.microsoft.com/sql-server): Microsoft's enterprise relational database platform offering advanced analytics, security, high availability, and integration with the Microsoft data ecosystem. `Database` `Freemium`
 - [Oracle Database](https://www.oracle.com/database/): A highly scalable enterprise relational database management system designed for mission-critical applications, large-scale transactions, and complex data processing. `Database` `Commercial`
 - [IBM Informix](https://www.ibm.com/products/informix): IBM's scalable relational database system optimized for IoT, embedded applications, time-series data, and high-performance transactional workloads. `Database` `Commercial`
 - [SAP SQL Anywhere](https://www.sap.com/products/technology-platform/sql-anywhere.html): SAP's lightweight relational database designed for embedded, mobile, and distributed enterprise applications requiring synchronization and offline capabilities. `Database` `Commercial`
