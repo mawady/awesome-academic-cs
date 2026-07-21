@@ -84,8 +84,6 @@
 
 ## Online Learning Platforms
 
-### Free
-
 - [Khan Academy](https://www.khanacademy.org/computing): Millions of global users utilize this platform for foundational math, computer science logic, and intro-level algorithms. `Free`
 - [freeCodeCamp](https://www.freecodecamp.org/): Massive global community with a highly popular, project-based curriculum spanning web development, data structures, and core programming concepts. `Free`
 - [Microsoft Learn](https://learn.microsoft.com/): High-traffic corporate learning ecosystem offering detailed, structured pathways for cloud engineering, developer tools, and enterprise AI. `Free`
@@ -96,15 +94,8 @@
 - [Hugging Face Learn](https://huggingface.co/learn): The absolute epicenter of modern AI and open-source NLP education, teaching developers how to implement real Transformer models and deep reinforcement learning. `Free`
 - [The Odin Project](https://www.theodinproject.com/): Highly popular, deep, open-source full-stack web development curriculum with a vast community backing self-taught software engineers. `Free`
 - [fast.ai](https://www.fast.ai/): Acclaimed top-down approach to deep learning that gets students building complex neural networks quickly before breaking down the underlying math. `Free`
-- [OSS University](https://github.com/ossu/computer-science): A viral, community-curated GitHub roadmap designed to mimic a full 4-year undergraduate computer science degree using entirely free resources. `Free`
 - [Exercism](https://exercism.org/): Well-adopted open-source practice platform featuring human code mentorship across more than 60 programming languages. `Free`
 - [Cognitive Class](https://cognitiveclass.ai/): IBM's dedicated virtual lab environment focused natively on building big data, cloud architecture, and AI infrastructure skills. `Free`
-- [Full Stack Open](https://fullstackopen.com/en/): The University of Helsinki's highly regarded modern web engineering program focusing on advanced JavaScript, React, Node.js, and CI/CD pipelines. `Free`
-- [Elements of AI](https://www.elementsofai.com/): An incredibly accessible and widely completed foundational introduction to artificial intelligence principles backed by the University of Helsinki. `Free`
-- [Teach Yourself Computer Science](https://teachyourselfcs.com/): A critically acclaimed, minimalist blueprint highlighting the 9 essential core engineering subjects every software engineer should read and study. `Free`
-
-### Freemium / Commercial
-
 - [Coursera](https://www.coursera.org/): The global leader in university partnerships, hosting thousands of structured specializations, certificates, and accredited online degrees. `Freemium / Commercial`
 - [edX](https://www.edx.org/): A massive academic repository partnering with institutions like Harvard, Berkeley, and MIT to offer MicroMasters and individual course auditing for free. `Freemium / Commercial`
 - [LeetCode](https://leetcode.com/): The definitive, industry-standard engine for algorithm training, data structure mechanics, and technical whiteboard interview prep. `Freemium / Commercial`
@@ -113,22 +104,14 @@
 - [Brilliant](https://brilliant.org/): Heavily adopted visual-first learning application that uses bite-sized interactive modules to explain complex math, physics, and neural networks. `Freemium / Commercial`
 - [DeepLearning.AI](https://www.deeplearning.ai/): Andrew Ng's highly authoritative training engine delivering industry-standard specializations in Deep Learning, GenAI, and MLOps. `Freemium / Commercial`
 - [Stanford Online](https://online.stanford.edu/): Elite university portal giving the public direct access to Stanford's advanced engineering lectures, professional certs, and advanced degree options. `Freemium / Commercial`
-- [Codewars](https://www.codewars.com/): A well-established, gamified coding environment where developers sharpen programmatic skills by solving peer-graded community challenges (kata). `Freemium / Commercial`
 - [NeetCode](https://neetcode.io/): Explosive growth among technical job seekers for its highly structured, video-guided approach to mastering data structures, algorithms, and system design patterns. `Freemium / Commercial`
 - [AlgoExpert](https://www.algoexpert.io/): A premium, highly marketed video interview prep platform meticulously detailing how to break down complex architectural and algorithmic problems. `Freemium / Commercial`
-- [Boot.dev](https://boot.dev/): A rapidly growing, heavily gamified platform focusing specifically on the computer science fundamentals required for modern backend development (Python, Go, SQL). `Freemium / Commercial`
-- [CodeCrafters](https://codecrafters.io/): A premium niche platform tailored for senior engineering practice, teaching internal architecture by forcing you to rebuild tools like Git, SQLite, or Docker from scratch. `Freemium / Commercial`
-
-### Commercial
-
 - [Udemy](https://www.udemy.com/): The absolute titan of online course marketplaces, boasting an unmatched catalog of user-reviewed courses covering every niche tech stack imaginable. `Commercial`
 - [LinkedIn Learning](https://www.linkedin.com/learning/): Massive corporate adoption, serving video training catalogs globally to help professionals build software, business, and cloud skills tied to their careers. `Commercial`
 - [Pluralsight](https://www.pluralsight.com/): The baseline technical skill-assessment and learning infrastructure used extensively by enterprise IT departments, DevOps teams, and sysadmins. `Commercial`
 - [O'Reilly Learning](https://www.oreilly.com/): Premium, enterprise-focused digital ecosystem offering complete access to classic technical textbooks, sandboxes, and expert video live streams. `Commercial`
 - [Udacity](https://www.udacity.com/): Well-known for its intensive, career-oriented "Nanodegree" programs co-designed with major corporate tech stakeholders to bridge hiring gaps. `Commercial`
 - [Educative](https://www.educative.io/): Popular text-based platform favored by experienced engineers for its ultra-fast, zero-setup interactive environments built for System Design and advanced code learning. `Commercial`
-- [Frontend Masters](https://frontendmasters.com/): Highly targeted, advanced video workshop network focusing strictly on deep, production-grade JavaScript frameworks and modern web ecosystem architecture. `Commercial`
-- [Zero To Mastery (ZTM)](https://zerotomastery.io/): Highly structured, independent academy building career-ready technical skills through curated full-stack, DevOps, and machine learning courses. `Commercial`
 
 ---
 
