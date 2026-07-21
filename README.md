@@ -132,6 +132,41 @@
 - [Anaconda](https://www.anaconda.com/): Extensively bundled Python and R distribution tailored strictly for heavy academic data-science and scientific computing packages. `Freemium / Commercial`
 - [uv](https://docs.astral.sh/uv/): An extremely fast, modern Python package and project manager written in Rust, designed as a drop-in replacement for workflows involving `pip`, `pip-tools`, `virtualenv`, and parts of `conda`. It provides dependency resolution, virtual environment management, Python version installation, and reproducible project workflows in a single lightweight tool. [[GitHub](https://github.com/astral-sh/uv)] `Open Source`
 
+### C++
+
+- [GCC](https://gcc.gnu.org/): The GNU Compiler Collection providing a mature, widely adopted open-source compiler toolchain for C, C++, and other programming languages with extensive platform support. [[GitHub](https://github.com/gcc-mirror/gcc)] `Open Source`
+- [Clang](https://clang.llvm.org/): A modern C/C++ compiler front end built on LLVM, offering fast compilation, excellent diagnostics, strong standards compliance, and integration with advanced tooling ecosystems. [[GitHub](https://github.com/llvm/llvm-project)] `Open Source`
+- [MinGW-w64](https://www.mingw-w64.org/): A free and open-source development environment providing GCC-based C and C++ compilers for building native Windows applications. [[GitHub](https://github.com/mingw-w64/mingw-w64)] `Open Source`
+- [Microsoft Visual C++ (MSVC)](https://visualstudio.microsoft.com/vs/features/cplusplus/): Microsoft's C++ compiler and development toolchain integrated with Visual Studio, optimized for Windows application development and enterprise software. `Freemium / Commercial`
+- [Intel oneAPI DPC++/C++ Compiler](https://www.intel.com/content/www/us/en/developer/tools/oneapi/dpc-compiler.html): Intel's C++ compiler optimized for high-performance computing, parallel programming, and Intel CPU/GPU architectures. `Freemium / Commercial`
+
+### Javascript
+
+- [Node.js](https://nodejs.org/): A cross-platform JavaScript runtime built on the V8 engine, enabling server-side development, command-line tools, and full-stack JavaScript applications. [[GitHub](https://github.com/nodejs/node)] `Open Source`
+- [Deno](https://deno.com/): A secure, modern JavaScript and TypeScript runtime built on V8 and Rust, providing native support for TypeScript, web-standard APIs, and integrated tooling. [[GitHub](https://github.com/denoland/deno)] `Open Source`
+- [Bun](https://bun.sh/): An all-in-one JavaScript runtime, package manager, bundler, and test runner designed for high performance and compatibility with modern JavaScript and TypeScript workflows. [[GitHub](https://github.com/oven-sh/bun)] `Open Source`
+- [V8 JavaScript Engine](https://v8.dev/): Google's high-performance JavaScript and WebAssembly engine powering Chrome and multiple runtime environments, including Node.js. [[GitHub](https://github.com/v8/v8)] `Open Source`
+- [Nashorn](https://openjdk.org/projects/nashorn/): A lightweight JavaScript engine developed for the Java ecosystem, enabling Java applications to execute JavaScript code on the JVM. [[GitHub](https://github.com/openjdk/nashorn)] `Open Source`
+- [Oracle GraalJS](https://www.graalvm.org/javascript/): A high-performance JavaScript runtime built on GraalVM, providing interoperability between JavaScript and JVM-based languages for enterprise and polyglot applications. [[GitHub](https://github.com/oracle/graaljs)] `Commercial`
+
+
+### SQL (servers, tools)
+
+- [PostgreSQL](https://www.postgresql.org/): A powerful, open-source object-relational database management system known for standards compliance, extensibility, advanced SQL features, and reliability for enterprise workloads. [[GitHub](https://github.com/postgres/postgres)] `Database` `Open Source`
+- [MariaDB](https://mariadb.org/): A community-developed relational database management system created as a MySQL-compatible alternative, emphasizing performance, openness, and enterprise reliability. [[GitHub](https://github.com/MariaDB/server)] `Database` `Open Source`
+- [SQLite](https://www.sqlite.org/): A lightweight, embedded relational database engine providing a self-contained, serverless SQL database widely used in applications, mobile systems, and local data storage. [[GitHub](https://github.com/sqlite/sqlite)] `Database` `Open Source`
+- [DuckDB](https://duckdb.org/): An embedded analytical SQL database optimized for high-performance local analytics, columnar processing, and data science workflows. [[GitHub](https://github.com/duckdb/duckdb)] `Database` `Open Source`
+- [MySQL](https://www.mysql.com/): A widely adopted open-source relational database management system optimized for web applications, transactional workloads, and large-scale data-driven systems. [[GitHub](https://github.com/mysql/mysql-server)] `Database` `Freemium / Commercial`
+- [Microsoft SQL Server](https://www.microsoft.com/sql-server): Microsoft's enterprise relational database platform offering advanced analytics, security, high availability, and integration with the Microsoft data ecosystem. `Database` `Freemium / Commercial`
+- [Oracle Database](https://www.oracle.com/database/): A highly scalable enterprise relational database management system designed for mission-critical applications, large-scale transactions, and complex data processing. `Database` `Commercial`
+- [IBM Informix](https://www.ibm.com/products/informix): IBM's scalable relational database system optimized for IoT, embedded applications, time-series data, and high-performance transactional workloads. `Database` `Commercial`
+- [SAP SQL Anywhere](https://www.sap.com/products/technology-platform/sql-anywhere.html): SAP's lightweight relational database designed for embedded, mobile, and distributed enterprise applications requiring synchronization and offline capabilities. `Database` `Commercial`
+- [Beekeeper Studio](https://www.beekeeperstudio.io/): A modern, cross-platform SQL editor and database management application designed for developers, offering query editing, database browsing, and connection management with a user-friendly interface. [[GitHub](https://github.com/beekeeper-studio/beekeeper-studio)] `Tool` `Open Source`
+- [DBeaver](https://dbeaver.io/): A universal database management and SQL client supporting a wide range of relational and NoSQL databases, providing advanced SQL editing, data visualization, and database administration capabilities. [[GitHub](https://github.com/dbeaver/dbeaver)] `Tool` `Open Source`
+- [Adminer](https://www.adminer.org/): A lightweight, single-file database management tool supporting multiple SQL database systems, providing a simple web-based interface for administration, queries, and data manipulation. [[GitHub](https://github.com/vrana/adminer)] `Tool` `Open Source`
+- [Toad](https://www.quest.com/toad/): A comprehensive database development and administration toolset from Quest Software, providing SQL editing, database monitoring, performance tuning, schema management, and productivity features for enterprise database platforms including Oracle, SQL Server, PostgreSQL, and others. `Tool` `Commercial`
+- [Metabase](https://www.metabase.com/): An open-source business intelligence and analytics platform that enables users to explore data, create dashboards, and run SQL queries through an intuitive interface with minimal technical expertise. [[GitHub](https://github.com/metabase/metabase)] `Analytics` `Open Source`
+
 ---
 
 ## Online Survey & Classroom Engagement
