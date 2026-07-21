@@ -24,7 +24,6 @@
 - [Data Sharing Platform](#data-sharing-platform)
 - [Research Networking Platform](#research-networking-platform)
 - [Code Hosting & Version Control](#code-hosting--version-control)
-- [Source Code Finder](#source-code-finder)
 - [Live Demo](#live-demo)
 - [Journal & Conference Submission](#journal--conference-submission)
 - [LaTeX Writing](#latex-writing)
@@ -174,8 +173,6 @@
 - [Mentimeter](https://www.mentimeter.com/): Real-time audience response platform generating live polls, formative quizzes, and word clouds inside lectures. `Freemium`
 - [Padlet](https://padlet.com/): Virtual canvas that lets students collaborate visually, post multi-media boards, and pin dynamic questions. `Freemium`
 - [Slido](https://www.slido.com/): Polling and crowd-sourced Q&A tool built to slide smoothly into live presentation workflows. `Freemium`
-- [Google Forms](https://forms.google.com/): Clean, effortless survey engine providing instantaneous CSV exports and rapid data visualization. `Free`
-- [Typeform](https://www.typeform.com/): Highly design-centric, conversational interface forms optimized for improving survey response rates. `Freemium`
 
 ---
 
@@ -190,11 +187,11 @@
 
 ## Note-Taking & Knowledge Management
 
-- [Obsidian](https://obsidian.md/): Local-first Markdown editor operating on top of a plain-text folder vault with a powerful bidirectional graph view. `Free for Personal / Commercial Option`
-- [Notion](https://www.notion.so/): Relational database-backed visual workspace combining structural notes, task roadmaps, and research logs. `Freemium`
 - [Logseq](https://logseq.com/): Privacy-first, open-source outliner leveraging a graph architecture to capture non-linear thoughts and logs. [[GitHub](https://github.com/logseq/logseq)] `Open Source`
-- [Roam Research](https://roamresearch.com/): Networked thought-mapping note tool built entirely around granular block references and fluid cross-linking. `Commercial`
 - [Zettlr](https://www.zettlr.com/): Academic-first Markdown editor with native Zotero, BibTeX, and citation integrations out of the box. [[GitHub](https://github.com/Zettlr/Zettlr)] `Open Source`
+- [Obsidian](https://obsidian.md/): Local-first Markdown editor operating on top of a plain-text folder vault with a powerful bidirectional graph view. `Freemium`
+- [Notion](https://www.notion.so/): Relational database-backed visual workspace combining structural notes, task roadmaps, and research logs. `Freemium`
+- [Roam Research](https://roamresearch.com/): Networked thought-mapping note tool built entirely around granular block references and fluid cross-linking. `Commercial`
 
 ---
 
@@ -202,8 +199,8 @@
 
 - [Zotero](https://www.zotero.org/): Robust reference manager with deep browser scraping capabilities and native word-processor integration. *(Highly Recommended)* [[GitHub](https://github.com/zotero/zotero)] `Open Source`
 - [JabRef](https://www.jabref.org/): Desktop-native bibliography suite utilizing BibTeX as its native file format, built explicitly for LaTeX workflows. [[GitHub](https://github.com/JabRef/jabref)] `Open Source`
+- [Mendeley Reference Manager](https://www.mendeley.com/): Cloud-centric citation management ecosystem managed by Elsevier featuring built-in PDF annotations. `Freemium`
 - [EndNote](https://endnote.com/): Heavyweight, enterprise commercial reference suite tailored for global medical and scientific laboratory publishing pipelines. `Commercial`
-- [Mendeley Reference Manager](https://www.mendeley.com/): Cloud-centric citation management ecosystem managed by Elsevier featuring built-in PDF annotations. `Free`
 - [Paperpile](https://paperpile.com/): High-velocity, web-native reference system with flawless Google Docs and Overleaf integration. `Commercial`
 
 ---
@@ -223,7 +220,6 @@
 - [Scholar Inbox](https://www.scholar-inbox.com/): Tailored Daily arXiv digests contextually parsed to align directly with your publishing profile and keywords. `Free`
 - [Connected Papers](https://www.connectedpapers.com/): Discovers related adjacent works visually based on co-citation proximity rather than direct citations alone. `Freemium`
 - [Litmaps Discover](https://www.litmaps.com/): Searches literature graphs by uploading an entire collection of seed papers to discover relevant literature gaps. `Freemium`
-- [ResearchRabbit Discovery](https://www.researchrabbit.ai/): Dynamic collection generation that updates and tracks recommendations based on user interaction trends. `Free`
 
 ---
 
@@ -232,18 +228,14 @@
 - [Google Scholar](https://scholar.google.com/): The omnipresent index for tracking global multidisciplinary academic literature citations and metadata. `Free`
 - [Semantic Scholar](https://www.semanticscholar.org/): AI search engine that interprets semantic relationships between papers to filter out low-impact noise. `Free`
 - [dblp computer science bibliography](https://dblp.org/): The foundational repository indexing major computer science publications, conferences, and journal tracks. `Free`
-- [OpenAlex](https://openalex.org/): A massive, fully open global index of the world's research system with a powerful API. `Free / Open Source`
 - [Bielefeld Academic Search Engine (BASE)](https://www.base-search.net/): One of the world's most voluminously integrated open-access search indices managed by Bielefeld University Library. `Free`
-- [ResearchGate Search](https://www.researchgate.net/): Social discovery engine where independent researchers actively post full-text prepub self-archived papers. `Free`
 - [CORE Academic Aggregator](https://core.ac.uk/): The world's largest aggregator providing access to millions of open-access research papers harvested from repositories globally. `Free`
-- [Lens.org](https://www.lens.org/): Open global discovery framework unifying patent applications alongside structural scientific literature metadata. `Free for open usage`
 
 ---
 
 ## Preprint Article Repositories
 
 - [arXiv](https://arxiv.org/): The premier open-access archive hosted by Cornell University for preprints across Computer Science, Physics, and Mathematics. `Free`
-- [bioRxiv](https://www.biorxiv.org/) / [medRxiv](https://www.medrxiv.org/): Crucial preprint channels for computational biology, bioinformatics, and health informatics. `Free`
 - [SSRN](https://www.ssrn.com/): Multidisciplinary platform owned by Elsevier, popular for early-stage digital economy and algorithmic law research. `Free`
 - [TechRxiv](https://www.techrxiv.org/): IEEE's official open preprint server spanning electrical engineering, systems architecture, and computer science. `Free`
 
@@ -251,12 +243,11 @@
 
 ## Dataset Repositories
 
-- [Papers With Code Datasets](https://paperswithcode.com/datasets): Curated collection of machine learning benchmark datasets categorized with interactive model performance leaderboards. `Free / Open Source`
-- [Hugging Face Datasets](https://huggingface.co/datasets): The largest hub for NLP, vision, and multimodal datasets, offering one-line programmatic downloads. `Free / Open Source`
+- [Hugging Face Datasets](https://huggingface.co/datasets): The largest hub for NLP, vision, and multimodal datasets, offering one-line programmatic downloads. `Free`
 - [Kaggle Datasets](https://www.kaggle.com/datasets): Diverse community-contributed data repository integrated with free cloud computing notebooks. `Free`
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/): The classic, historic repository maintained by UC Irvine for empirical benchmarking of ML models. `Free`
 - [Google Dataset Search](https://datasetsearch.research.google.com/): Dedicated search infrastructure designed to map out metadata pointing to datasets hidden across the web. `Free`
-- [OpenML](https://www.openml.org/): Fully open machine learning platform for sharing datasets, execution logs, and experiment loops. `Open Source`
+- [OpenML](https://www.openml.org/): Fully open machine learning platform for sharing datasets, execution logs, and experiment loops. `Free`
 
 ---
 
@@ -264,53 +255,44 @@
 
 - [Zenodo](https://zenodo.org/): General-purpose open repository hosted by CERN allowing researchers to deposit datasets with an instant, citable DOI. `Free`
 - [OSF (Open Science Framework)](https://osf.io/): Project pipeline manager designed to handle open-science project preregistrations, asset storage, and code deployments. `Free`
-- [Figshare](https://figshare.com/): Cloud repository tailored for making academic outputs (including posters, figures, and datasets) easily discoverable. `Freemium`
-- [Dryad](https://datadryad.org/): Curated data-publishing repository explicitly designed to fulfill open-data mandates from journal publishers. `Free to read / Publication Fee to deposit`
+- [Figshare](https://figshare.com/): Cloud repository tailored for making academic outputs (including posters, figures, and datasets) easily discoverable. `Free`
 
 ---
 
 ## Research Networking Platform
 
 - [ORCID](https://orcid.org/): Provides researchers with a persistent, unique digital identifier to resolve identity disambiguation errors globally. `Free`
-- [Web of Science](https://clarivate.com/products/scientific-and-academic-research/research-discovery-and-workflow-solutions/webofscience-platform/): Premium citation database used to evaluate journal impact factors and verify peer-review contributions. `Commercial`
 - [ResearchGate](https://www.researchgate.net/): Professional academic network hosting internal discussions, question boards, and direct peer message links. `Free`
 - [Academia.edu](https://www.academia.edu/): Commercial platform to share research papers, track real-time analytics, and join topic-based feeds. `Freemium`
+- [Web of Science](https://clarivate.com/products/scientific-and-academic-research/research-discovery-and-workflow-solutions/webofscience-platform/): Premium citation database used to evaluate journal impact factors and verify peer-review contributions. `Commercial`
 
 ---
 
 ## Code Hosting & Version Control
 
 - [GitHub](https://github.com/): The industry-standard code forge hosting source trees, pull requests, automated actions, and researcher portfolios. `Freemium`
-- [GitLab](https://gitlab.com/): Comprehensive DevOps lifecycle platform featuring robust self-hosting variants favored by research institutes. [[GitHub](https://gitlab.com/gitlab-org/gitlab)] `Open Source / Commercial`
+- [GitLab](https://gitlab.com/): Comprehensive DevOps lifecycle platform featuring robust self-hosting variants favored by research institutes. [[GitHub](https://gitlab.com/gitlab-org/gitlab)] `Freemium`
 - [Bitbucket](https://bitbucket.org/): Code hosting provider deeply linked into the Atlassian enterprise ecosystem (Jira/Confluence). `Freemium`
-- [Software Heritage](https://www.softwareheritage.org/): A universal, long-term archiving initiative dedicated to collecting, preserving, and sharing the source code of all publicly available software. `Free`
-
----
-
-## Source Code Finder
-
-- [GitHub Code Search](https://github.com/search): Advanced indexing engine designed for searching across all public code files hosted on GitHub. `Free`
-- [Papers With Code](https://paperswithcode.com/): Maps out official and independent GitHub code implementations directly attached to their respective machine learning papers. `Free`
-- [Sourcegraph](https://sourcegraph.com/): Code intelligence platform allowing multi-repository regex lookups across multiple remote code infrastructures simultaneously. `Freemium`
 
 ---
 
 ## Live Demo
 
-- [Hugging Face Spaces](https://huggingface.co/spaces): Instantly provisions computational resources to deploy machine learning prototypes using Gradio or Streamlit. `Freemium`
-- [Replicate](https://replicate.com/): Highly scalable runtime deployment system allowing developers to run large open models behind a production API. `Commercial`
-- [Streamlit Community Cloud](https://streamlit.io/cloud): Free hosting tier optimized for spinning up data-driven Python analytical frameworks directly from Git branches. `Free`
 - [Gradio](https://www.gradio.app/): Python framework to wrap an ML inference model with a graphical UI and instantly share it via a public link. [[GitHub](https://github.com/gradio-app/gradio)] `Open Source`
+- [Hugging Face Spaces](https://huggingface.co/spaces): Instantly provisions computational resources to deploy machine learning prototypes using Gradio or Streamlit. `Freemium`
+- [Streamlit Community Cloud](https://streamlit.io/cloud): Free hosting tier optimized for spinning up data-driven Python analytical frameworks directly from Git branches. `Freemium`
+- [Replicate](https://replicate.com/): Highly scalable runtime deployment system allowing developers to run large open models behind a production API. `Commercial`
 
 ---
 
 ## Journal & Conference Submission
 
-- [OpenReview](https://openreview.net/): Open-science peer review infrastructure managing double-blind and transparent reviews for flagship venues like NeurIPS and ICLR. `Free`
-- [EasyChair](https://easychair.org/): Veteran conference management utility facilitating paper ingestion, track distributions, and reviewer assignments. `Freemium`
 - [HotCRP](https://hotcrp.com/): Highly customizable conference management suite favored by systems, networking, and security review boards. [[GitHub](https://github.com/kohler/hotcrp)] `Open Source`
+- [OpenReview](https://openreview.net/): Open-science peer review infrastructure managing double-blind and transparent reviews for flagship venues like NeurIPS and ICLR. `Free`
 - [Submission.science](https://submission.science/): Clean real-time countdown resource displaying updated sub deadlines for AI and Systems conferences. `Free`
 - [WikiCFP](http://www.wikicfp.com/): Searchable global hub for Calls For Papers across almost all scientific domains. `Free`
+- [CMT3](https://cmt3.research.microsoft.com/): Microsoft's conference management platform supporting paper submission, peer review, reviewer assignment, conflict management, and decision workflows for thousands of academic conferences across diverse research fields. `Free`
+- [EasyChair](https://easychair.org/): Veteran conference management utility facilitating paper ingestion, track distributions, and reviewer assignments. `Free`
 
 ---
 
@@ -324,17 +306,10 @@
 
 ### Editors
 
-- [Overleaf](https://www.overleaf.com/): Real-time cloud-collaborative LaTeX editor offering instant preview compiling, requiring zero local compilation setup. *(Highly Recommended for collaboration)* `Freemium`
 - [TeXstudio](https://www.texstudio.org/): Feature-dense local IDE packed with interactive code folding, structural tree inspectors, and synchronous PDF view tracking. [[GitHub](https://github.com/texstudio-org/texstudio)] `Open Source`
 - [VSCode + LaTeX Workshop](https://code.visualstudio.com/): Modern setup combining Microsoft's IDE with the premier LaTeX compilation plugin suite. [[GitHub (LaTeX Workshop)](https://github.com/James-Yu/LaTeX-Workshop)] *(Recommended for power users)* `Open Source`
 - [LyX](https://www.lyx.org/): WYSIWYM (What You See Is What You Mean) editor abstracted for individuals who prefer visual document structuring without manual code adjustments. `Open Source`
-
-### Templates & Resources
-
-- [Overleaf Template Gallery](https://www.overleaf.com/latex/templates): Repository hosting thousands of verified journal styles, conference formatting standards, and thesis layout outlines. `Free`
-- [LaTeX Templates](https://www.latextemplates.com/): Clean, meticulously commented, and easily customizable boilerplate templates for scientific publications. `Free`
-- [Detexify](https://detexify.kirelabs.org/classify.html): Handwriting recognition app that converts drawn symbols into precise LaTeX syntax commands. `Free`
-- [Awesome LaTeX](https://github.com/egeerardyn/awesome-LaTeX): Curated collection tracking specialized TeX macros, packages, and helper utilities. `Open Source`
+- [Overleaf](https://www.overleaf.com/): Real-time cloud-collaborative LaTeX editor offering instant preview compiling, requiring zero local compilation setup. *(Highly Recommended for collaboration)* `Freemium`
 
 ---
 
@@ -343,8 +318,8 @@
 - [Beamer](https://ctan.org/pkg/beamer): Flexible LaTeX document class for designing clean academic presentations with rigorous mathematical typesetting support. `Open Source`
 - [Reveal.js](https://revealjs.com/): Advanced HTML presentation tool, allowing slides to run natively inside browsers with high-performance CSS transforms. [[GitHub](https://github.com/hakimel/reveal.js)] `Open Source`
 - [Slidev](https://sli.dev/): Markdown-centered slideshow platform for developers, rendering full syntax coloring and developer tools directly on slides. [[GitHub](https://github.com/slidevjs/slidev)] `Open Source`
-- [Canva](https://www.canva.com/): Rapid design platform packed with visual presets, layout vectors, and academic poster dimensions. `Freemium`
 - [Google Slides](https://slides.google.com/): Cloud presentation software optimizing cross-team edits, history logs, and instant sharing features. `Free`
+- [Canva](https://www.canva.com/): Rapid design platform packed with visual presets, layout vectors, and academic poster dimensions. `Freemium`
 - [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/powerpoint): Powerhouse local multimedia slide presentation software featuring robust design capabilities. `Commercial`
 
 ---
@@ -353,9 +328,7 @@
 
 - [Grammarly](https://www.grammarly.com/): AI writing assistant focusing on clearing mechanical style flaws, sentence structural clarity, and typographical slip-ups. `Freemium`
 - [QuillBot](https://quillbot.com/): Highly optimized contextual paraphrasing and thesaurus utility built to assist re-wording repetitive passages. `Freemium`
-- [Trinka AI](https://www.trinka.ai/): Contextual writing assistant built explicitly around editing technical engineering jargon and formal academic terminology. `Freemium`
-- [LanguageTool](https://languagetool.org/): Privacy-respecting, multilingual open grammar core providing standalone offline deployment capabilities. [[GitHub](https://github.com/languagetool-org/languagetool)] `Open Source / Freemium`
-- [Hemingway Editor](https://hemingwayapp.com/): Clean editor that highlights dense sentences, passive voice patterns, and complex phrasing to improve readability. `Free Web / Commercial Desktop`
+- [Hemingway Editor](https://hemingwayapp.com/): Clean editor that highlights dense sentences, passive voice patterns, and complex phrasing to improve readability. `Freemium`
 
 ---
 
@@ -363,7 +336,6 @@
 
 - [Turnitin / iThenticate](https://www.turnitin.com/): Elite enterprise checking application referenced across leading publishing houses to confirm manuscript originality. `Commercial`
 - [Scribbr Plagiarism Checker](https://www.scribbr.com/plagiarism-checker/): Consumer accessible checking portal running directly on top of the expansive Turnitin comparison database. `Commercial`
-- [Copyleaks](https://copyleaks.com/): High-speed plagiarism checker augmented with advanced linguistic mapping to identify AI-generated patterns. `Commercial`
 
 ---
 
@@ -409,16 +381,13 @@
 
 ## Wireframing, Mockups & Prototyping Tools
 
-- [Figma](https://www.figma.com/): Industry-standard collaborative UI/UX design platform supporting wireframing, high-fidelity mockups, interactive prototypes, design systems, and developer handoff. `Freemium`
-- [Google Stitch](https://stitch.withgoogle.com/): Google’s AI-powered UI design tool that generates editable wireframes and interface mockups from natural language prompts or reference images, with export to Figma and frontend code. `Free`
 - [Penpot](https://penpot.app/): Open-source collaborative design platform for creating wireframes, UI mockups, interactive prototypes, and reusable design systems. [[GitHub](https://github.com/penpot/penpot)] `Open Source`
-- [Balsamiq](https://balsamiq.com/): Lightweight low-fidelity wireframing tool that emphasizes rapid interface ideation using hand-drawn style components. `Commercial`
-- [Framer](https://www.framer.com/): Modern design and prototyping platform for building responsive interfaces, rich animations, and interactive web experiences. `Freemium`
-- [Axure RP](https://www.axure.com/): Enterprise-grade UX platform for developing complex interactive prototypes with variables, conditional logic, and detailed specifications. `Commercial`
-- [ProtoPie](https://www.protopie.io/): Advanced prototyping tool for creating realistic web and mobile interactions using gestures, sensors, variables, and logic. `Commercial`
 - [Pencil Project](https://pencil.evolus.vn/): Open-source desktop application for creating wireframes and GUI mockups with an extensive library of interface components. [[GitHub](https://github.com/evolus/pencil)] `Open Source`
 - [Excalidraw](https://excalidraw.com/): Open-source collaborative whiteboard ideal for sketching low-fidelity wireframes, user flows, and interface concepts. [[GitHub](https://github.com/excalidraw/excalidraw)] `Open Source`
+- [Google Stitch](https://stitch.withgoogle.com/): Google’s AI-powered UI design tool that generates editable wireframes and interface mockups from natural language prompts or reference images, with export to Figma and frontend code. `Free`
 - [Draw.io (diagrams.net)](https://app.diagrams.net/): Free, web-based diagramming tool for wireframes, flowcharts, system design diagrams, and UI structure planning with strong integration support (Google Drive, OneDrive, GitHub). `Free`
+- [Figma](https://www.figma.com/): Industry-standard collaborative UI/UX design platform supporting wireframing, high-fidelity mockups, interactive prototypes, design systems, and developer handoff. `Freemium`
+- [Balsamiq](https://balsamiq.com/): Lightweight low-fidelity wireframing tool that emphasizes rapid interface ideation using hand-drawn style components. `Commercial`
 
 ---
 
@@ -427,12 +396,6 @@
 - [awesome-computer-vision-resources](https://github.com/mawady/awesome-cv): Structured learning reference for computer vision: from image fundamentals to research frontiers.
 - [awesome-computer-vision-tools](https://github.com/mawady/awesome-computer-vision-tools): Curated tools for the full CV pipeline: training, data augmentation, experiment tracking, inference, edge deployment, and MLOps.
 - [cv-recipes](https://github.com/mawady/cv-recipes): Practical computer vision recipes for educational and research use (Python / Colab notebooks).
-
----
-
-## ToDo
-
-- Clean sections
 
 ---
 
