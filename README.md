@@ -84,6 +84,8 @@
 
 ## Online Learning Platforms
 
+> Ordered by `Free`, `Freemium / Commercial` and `Commercial`
+
 - [Khan Academy](https://www.khanacademy.org/computing): Millions of global users utilize this platform for foundational math, computer science logic, and intro-level algorithms. `Free`
 - [freeCodeCamp](https://www.freecodecamp.org/): Massive global community with a highly popular, project-based curriculum spanning web development, data structures, and core programming concepts. `Free`
 - [Microsoft Learn](https://learn.microsoft.com/): High-traffic corporate learning ecosystem offering detailed, structured pathways for cloud engineering, developer tools, and enterprise AI. `Free`
@@ -128,6 +130,7 @@
 
 - [CPython](https://www.python.org/): The foundational reference implementation of the Python programming language. [[GitHub](https://github.com/python/cpython)] `Open Source`
 - [Anaconda](https://www.anaconda.com/): Extensively bundled Python and R distribution tailored strictly for heavy academic data-science and scientific computing packages. `Freemium / Commercial`
+- [uv](https://docs.astral.sh/uv/): An extremely fast, modern Python package and project manager written in Rust, designed as a drop-in replacement for workflows involving `pip`, `pip-tools`, `virtualenv`, and parts of `conda`. It provides dependency resolution, virtual environment management, Python version installation, and reproducible project workflows in a single lightweight tool. [[GitHub](https://github.com/astral-sh/uv)] `Open Source`
 
 ---
 
