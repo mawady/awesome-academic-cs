@@ -150,7 +150,7 @@
 - [Oracle GraalJS](https://www.graalvm.org/javascript/): A high-performance JavaScript runtime built on GraalVM, providing interoperability between JavaScript and JVM-based languages for enterprise and polyglot applications. [[GitHub](https://github.com/oracle/graaljs)] `Commercial`
 
 
-### SQL (servers, tools)
+### SQL
 
 - [PostgreSQL](https://www.postgresql.org/): A powerful, open-source object-relational database management system known for standards compliance, extensibility, advanced SQL features, and reliability for enterprise workloads. [[GitHub](https://github.com/postgres/postgres)] `Database` `Open Source`
 - [MariaDB](https://mariadb.org/): A community-developed relational database management system created as a MySQL-compatible alternative, emphasizing performance, openness, and enterprise reliability. [[GitHub](https://github.com/MariaDB/server)] `Database` `Open Source`
