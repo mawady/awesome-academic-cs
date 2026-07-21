@@ -132,7 +132,7 @@
 - [Anaconda](https://www.anaconda.com/): Extensively bundled Python and R distribution tailored strictly for heavy academic data-science and scientific computing packages. `Freemium / Commercial`
 - [uv](https://docs.astral.sh/uv/): An extremely fast, modern Python package and project manager written in Rust, designed as a drop-in replacement for workflows involving `pip`, `pip-tools`, `virtualenv`, and parts of `conda`. It provides dependency resolution, virtual environment management, Python version installation, and reproducible project workflows in a single lightweight tool. [[GitHub](https://github.com/astral-sh/uv)] `Open Source`
 
-### C++
+### C++
 
 - [GCC](https://gcc.gnu.org/): The GNU Compiler Collection providing a mature, widely adopted open-source compiler toolchain for C, C++, and other programming languages with extensive platform support. [[GitHub](https://github.com/gcc-mirror/gcc)] `Open Source`
 - [Clang](https://clang.llvm.org/): A modern C/C++ compiler front end built on LLVM, offering fast compilation, excellent diagnostics, strong standards compliance, and integration with advanced tooling ecosystems. [[GitHub](https://github.com/llvm/llvm-project)] `Open Source`
