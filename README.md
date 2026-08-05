@@ -360,7 +360,13 @@
 - [International Conference on Computer Supported Education (CSEDU)](https://dblp.org/streams/conf/csedu): SciTePress. `CORE B`
 - [International Conference on Advanced Learning Technologies (ICALT)](https://dblp.org/streams/conf/icalt): IEEE. `CORE B`
 - [European Conference on Technology Enhanced Learning (EC-TEL)](https://dblp.org/streams/conf/ectel): Springer. `CORE B`
+- [Conference on Learning @ Scale (L@S)](https://dblp.org/streams/conf/lats): ACM. `CORE B`
 - [Frontiers in Education Conference (FIE)](https://dblp.org/streams/conf/fie): IEEE. `CORE C`
+- [Conference on Software Engineering Education and Training (CSEET)](https://dblp.org/streams/conf/csee): IEEE/ACM. `CORE C`
+- [Global Engineering Education Conference (EDUCON)](https://dblp.org/streams/conf/educon): IEEE. `CORE C`
+- [International Conference on Computers in Education (ICCE)](https://dblp.org/streams/conf/icce): Asia-Pacific Society for Computers in Education. `CORE C`
+- [World Conference on Educational Multimedia, Hypermedia and Telecommunications (ED-MEDIA)](https://www.learntechlib.org/j/EDMEDIA/): LearnTechLib/AACE. `CORE C`
+- [Informing Science and Information Technology Education (InSITE)](https://www.informingscience.org/Conferences): Informing Science+IT. `CORE C`
 - [Koli Calling International Conference on Computing Education Research (Koli Calling)](https://dblp.org/streams/conf/kolicalling): ACM. `Unranked`
 - [Computing Education Practice (CEP)](https://dblp.org/streams/conf/cep): ACM. `Unranked`
 - [UK & Ireland Computing Education (UKICER)](https://dblp.org/streams/conf/ukicer): ACM. `Unranked`
