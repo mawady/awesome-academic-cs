@@ -392,6 +392,7 @@
 - [Excalidraw](https://excalidraw.com/): Open-source collaborative whiteboard ideal for sketching low-fidelity wireframes, user flows, and interface concepts. [[GitHub](https://github.com/excalidraw/excalidraw)] `Open Source`
 - [Google Stitch](https://stitch.withgoogle.com/): Google’s AI-powered UI design tool that generates editable wireframes and interface mockups from natural language prompts or reference images, with export to Figma and frontend code. `Free`
 - [Draw.io (diagrams.net)](https://app.diagrams.net/): Free, web-based diagramming tool for wireframes, flowcharts, system design diagrams, and UI structure planning with strong integration support (Google Drive, OneDrive, GitHub). `Free`
+- [Drawbly](https://drawbly.com/) — Browser canvas for sketching system flows and low-fidelity interface ideas in computer science lessons, with editable text and credited PNG exports. `Free`
 - [Figma](https://www.figma.com/): Industry-standard collaborative UI/UX design platform supporting wireframing, high-fidelity mockups, interactive prototypes, design systems, and developer handoff. `Freemium`
 - [Balsamiq](https://balsamiq.com/): Lightweight low-fidelity wireframing tool that emphasizes rapid interface ideation using hand-drawn style components. `Commercial`
 
