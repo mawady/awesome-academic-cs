@@ -265,6 +265,7 @@
 - [ResearchGate](https://www.researchgate.net/): Professional academic network hosting internal discussions, question boards, and direct peer message links. `Free`
 - [Academia.edu](https://www.academia.edu/): Commercial platform to share research papers, track real-time analytics, and join topic-based feeds. `Freemium`
 - [Web of Science](https://clarivate.com/products/scientific-and-academic-research/research-discovery-and-workflow-solutions/webofscience-platform/): Premium citation database used to evaluate journal impact factors and verify peer-review contributions. `Commercial`
+- [ProfScout](https://profscout.com): Finds professors most likely to reply to research cold emails, ranked by reply-fit. `Freemium`
 
 ---
 
