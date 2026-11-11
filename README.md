@@ -77,6 +77,7 @@
 - [Connected Papers](https://www.connectedpapers.com/): Visual tool that converts a single entry paper into a comprehensive graphical topology of co-citations and bibliography ties. `Freemium`
 - [Litmaps](https://www.litmaps.com/): Interactive pipeline utilizing automated citation maps to continuously track and alert you to new literature in your niche. `Freemium`
 - [Semantic Scholar](https://www.semanticscholar.org/): AI-driven search interface offering structural insights, impact metrics, and auto-generated summaries for millions of papers. `Free`
+- [JournalCompass](https://journalcompass.com): Free bilingual journal search with AI journal matcher; covers 43,499 journals with CAS tiers, impact factors, review times and APCs. `Free`
 
 ---
 
